@@ -1,6 +1,6 @@
 import type React from "react";
 import type { LEGOSet } from "../../types/LEGOSet";
-import ListCard from "../ListCard/ListCard";
+import { ListCard } from "../ListCard";
 
 
 interface ListViewProps {

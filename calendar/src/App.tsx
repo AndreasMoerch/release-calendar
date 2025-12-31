@@ -1,5 +1,5 @@
 import './App.css'
-import ListView from './components/ListView/ListView'
+import { ListView } from './components/ListView'
 import { LEGOSets } from './data'
 
 function App() {
