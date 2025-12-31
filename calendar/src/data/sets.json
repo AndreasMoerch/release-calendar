@@ -1,0 +1,26 @@
+{
+    "releases": [
+        {
+            "id": "60500",
+            "name": "The LEGO® Van",
+            "theme": "City",
+            "pieces": 276,
+            "releaseDate": "2026-01-01",
+            "price": {
+                "currency": "USD",
+                "amount": 29.99
+            }
+        },
+        {
+            "id": "11501",
+            "name": "Tulip Bouquet",
+            "theme": "The Botanical Collection",
+            "pieces": 576,
+            "releaseDate": "2026-01-01",
+            "price": {
+                "currency": "USD",
+                "amount": 59.99
+            }
+        }
+    ]
+}

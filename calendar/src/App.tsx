@@ -1,4 +1,6 @@
 import './App.css'
+import ListView from './components/ListView/ListView'
+import { LEGOSets } from './data'
 
 function App() {
 
@@ -6,6 +8,7 @@ function App() {
     <>
       <div>
         <p>Look at all those awesome LEGO sets!</p>
+        <ListView sets={LEGOSets} /> 
       </div>
     </>
   )
