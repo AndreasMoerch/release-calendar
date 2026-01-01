@@ -2,6 +2,7 @@ import type { LEGOSet } from "../../types/LEGOSet";
 import { formatReleaseDay, formatReleaseDayName, formatReleaseMonthName } from "../../utils/releaseDateFormatter";
 import { formatPriceWithCurrency } from "../../utils/priceFormatter";
 import './ListCard.css';
+import { generateUrlForSet } from "../../utils/setUrlGenerator";
 
 interface ListCardProps {
     /**
@@ -33,6 +34,7 @@ const ListCard: React.FC<ListCardProps> = ({ set }) => {
                 <span className="card-name">{set.name}</span>
                 <span className="card-theme">{set.theme}</span>
                 <span className="card-pieces">{set.pieces} pieces</span>
+                <a href={generateUrlForSet(set)} className="card-url">{generateUrlForSet(set)}</a>
                 <span className="card-price">{priceWithCurrency}</span>
             </div>
         </div>
