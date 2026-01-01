@@ -1,4 +1,6 @@
 import type { LEGOSet } from "../../types/LEGOSet";
+import { formatReleaseDay, formatReleaseDayName, formatReleaseMonthName } from "../../utils/releaseDateFormatter";
+import { formatPriceWithCurrency } from "../../utils/priceFormatter";
 import './ListCard.css';
 
 interface ListCardProps {
@@ -14,16 +16,24 @@ interface ListCardProps {
  * @returns a JSX element rendering the details of the LEGO set.
  */
 const ListCard: React.FC<ListCardProps> = ({ set }) => {
+
+    const releaseDay = formatReleaseDay(set);
+    const releaseMonthName = formatReleaseMonthName(set);
+    const releaseDayName = formatReleaseDayName(set);
+    const priceWithCurrency = formatPriceWithCurrency(set);
+
     return (
         <div className="card">
-            <div className="card-header">
-                <span className="card-header-name">{set.name}</span>
+            <div className="card-date">
+                <span className="card-date-number">{releaseDay} - {releaseMonthName} </span>
+                <span className="card-date-day">{releaseDayName}</span>
             </div>
-            <div className="card-body">
-                <span className="card-header-theme">{set.theme}</span>
-                <span className="card-header-pieces">{set.pieces}</span>
-                <span className="card-header-releaseDate">{set.releaseDate.toDateString()}</span>
-                <span className="card-header-price">{set.price.currency} {set.price.amount.toFixed(2)}</span>
+
+            <div className="card-content">
+                <span className="card-name">{set.name}</span>
+                <span className="card-theme">{set.theme}</span>
+                <span className="card-pieces">{set.pieces} pieces</span>
+                <span className="card-price">{priceWithCurrency}</span>
             </div>
         </div>
     );
