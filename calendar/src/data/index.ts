@@ -1,4 +1,5 @@
 import type { LEGOSet } from '../types/LEGOSet';
+import type { Locale } from '../types/Locale';
 import json from './sets.json';
 
 /**
@@ -17,7 +18,7 @@ import json from './sets.json';
  *   ...
  * ]
  */
-export const LEGOSets = (locale: string): LEGOSet[] =>
+export const LEGOSets = (locale: Locale): LEGOSet[] =>
     setsData.releases.map((set) => {
         const localeData = set.locales[locale];
         return {
@@ -43,7 +44,7 @@ type setsJson = {
 
 type setJson = {
   id: string;
-  locales: Record<string, localeJson>; // Note: Can be multiple locales in the future, hence the Record type.
+  locales: Record<Locale, localeJson>; // Note: Can be multiple locales in the future, hence the Record type.
   pieces: number;
   releaseDate: string;
   urlPath: string;
