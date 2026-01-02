@@ -321,6 +321,22 @@
             "urlPath": "cherry-blossoms-40725"
         },
         {
+            "id": "40864",
+            "locales": {
+                "en-US": {
+                    "name": "Fortune Master",
+                    "theme": "Other",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 29.99
+                    }
+                }
+            },
+            "pieces": 386,
+            "releaseDate": "2026-01-01",
+            "urlPath": "fortune-master-40864"
+        },
+        {
             "id": "60478",
             "locales": {
                 "en-US": {
@@ -895,6 +911,38 @@
             "pieces": 287,
             "releaseDate": "2026-01-01",
             "urlPath": "mclaren-w1-77257"
+        },
+        {
+            "id": "80118",
+            "locales": {
+                "en-US": {
+                    "name": "Fortune Firecracker",
+                    "theme": "Other",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 89.99
+                    }
+                }
+            },
+            "pieces": 1039,
+            "releaseDate": "2026-01-01",
+            "urlPath": "fortune-firecracker-80118"
+        },
+        {
+            "id": "80119",
+            "locales": {
+                "en-US": {
+                    "name": "Galloping Horse Canvas ",
+                    "theme": "Other",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 109.99
+                    }
+                }
+            },
+            "pieces": 1650,
+            "releaseDate": "2026-01-01",
+            "urlPath": "galloping-horse-canvas-80119"
         },
         {
             "id": "42226",
