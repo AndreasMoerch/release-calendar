@@ -145,38 +145,6 @@
             "urlPath": "cherry-blossoms-40725"
         },
         {
-            "id": "42226",
-            "locales": {
-                "en-US": {
-                    "name": "BMW M4 GT3 EVO Race Car",
-                    "theme": "Technic",
-                    "price": {
-                        "currency": "USD",
-                        "amount": 64.99
-                    }
-                }
-            },
-            "pieces": 747,
-            "releaseDate": "2026-03-01",
-            "urlPath": "bmw-m4-gt3-evo-race-car-42226"
-        },
-        {
-            "id": "43288",
-            "locales": {
-                "en-US": {
-                    "name": "Sally's Flowerpot",
-                    "theme": "Disney",
-                    "price": {
-                        "currency": "USD",
-                        "amount": 49.99
-                    }
-                }
-            },
-            "pieces": 346,
-            "releaseDate": "2026-03-01",
-            "urlPath": "sallys-flowerpot-43288"
-        },
-        {
             "id": "60478",
             "locales": {
                 "en-US": {
@@ -751,6 +719,38 @@
             "pieces": 287,
             "releaseDate": "2026-01-01",
             "urlPath": "mclaren-w1-77257"
+        },
+        {
+            "id": "42226",
+            "locales": {
+                "en-US": {
+                    "name": "BMW M4 GT3 EVO Race Car",
+                    "theme": "Technic",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 64.99
+                    }
+                }
+            },
+            "pieces": 747,
+            "releaseDate": "2026-03-01",
+            "urlPath": "bmw-m4-gt3-evo-race-car-42226"
+        },
+        {
+            "id": "43288",
+            "locales": {
+                "en-US": {
+                    "name": "Sally's Flowerpot",
+                    "theme": "Disney",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 49.99
+                    }
+                }
+            },
+            "pieces": 346,
+            "releaseDate": "2026-03-01",
+            "urlPath": "sallys-flowerpot-43288"
         }
     ]
 }
