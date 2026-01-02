@@ -43,7 +43,7 @@
 
 .card-content {
   display: grid;
-  grid-template-columns: 250px 180px 100px 1fr 120px;
+  grid-template-columns: 60px 250px 180px 100px 120px 1fr;
   gap: 16px;
   align-items: center;
   padding: 4px 0;
@@ -51,6 +51,15 @@
 
 .card-content:hover {
   background:  #2a2a2a;
+}
+.card-set-number {
+  color: #888;
+  font-size: 14px;
+  font-weight:  500;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  text-align: left;
 }
 
 .card-name {

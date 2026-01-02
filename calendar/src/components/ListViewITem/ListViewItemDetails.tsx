@@ -21,11 +21,12 @@ const ListViewItemDetails: React.FC<ListViewItemDetailsProps> = ({ set }) => {
 
     return (
         <div className="card-content">
+            <span className="card-set-number">#{set.id}</span>
             <span className="card-name">{set.name}</span>
             <span className="card-theme">{set.theme}</span>
             <span className="card-pieces">{set.pieces} pieces</span>
-            <a href={generateUrlForSet(set)} className="card-url">{generateUrlForSet(set)}</a>
             <span className="card-price">{priceWithCurrency}</span>
+            <a href={generateUrlForSet(set)} className="card-url">{generateUrlForSet(set)}</a>
         </div>
     );
 };
