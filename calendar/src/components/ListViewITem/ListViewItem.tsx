@@ -1,5 +1,6 @@
 import type { LEGOSet } from "../../types/LEGOSet";
 import { formatDayName, formatMonthName, formatDayNumber } from "../../utils/dateFormatter";
+import { sortByTheme } from "../../utils/setSorter";
 import ListViewItemDetails from "./ListViewItemDetails";
 import './ListViewItem.css';
 
@@ -26,6 +27,8 @@ const ListViewItem: React.FC<ListViewItemProps> = ({ releaseDate, sets }) => {
     const releaseMonthName = formatMonthName(releaseDate);
     const releaseDayName = formatDayName(releaseDate);
 
+    const sortedSets = sortByTheme(sets);
+
     return (
         <div className="card">
 
@@ -35,7 +38,7 @@ const ListViewItem: React.FC<ListViewItemProps> = ({ releaseDate, sets }) => {
             </div>
 
             <div className="card-date-content">
-                {sets.map((set) => (
+                {sortedSets.map((set) => (
                     <ListViewItemDetails set={set} />
                 ))}
             </div>
