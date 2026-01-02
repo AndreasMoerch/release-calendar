@@ -289,6 +289,262 @@
             "urlPath": "coast-guard-helicopter-60503"
         },
         {
+            "id": "60502",
+            "locales": {
+                "en-US": {
+                    "name": "Airport with Airplane",
+                    "theme": "City",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 99.99
+                    }
+                }
+            },
+            "pieces": 426,
+            "releaseDate": "2026-01-01",
+            "urlPath": "airport-with-airplane-60502"
+        },
+        {
+            "id": "60499",
+            "locales": {
+                "en-US": {
+                    "name": "Airport Fire Truck",
+                    "theme": "City",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 69.99
+                    }
+                }
+            },
+            "pieces": 691,
+            "releaseDate": "2026-01-01",
+            "urlPath": "airport-fire-truck-60499"
+        },
+        {
+            "id": "60498",
+            "locales": {
+                "en-US": {
+                    "name": "Tractor",
+                    "theme": "City",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 19.99
+                    }
+                }
+            },
+            "pieces": 204,
+            "releaseDate": "2026-01-01",
+            "urlPath": "tractor-60498"
+        },
+        {
+            "id": "60495",
+            "locales": {
+                "en-US": {
+                    "name": "Recycling Truck",
+                    "theme": "City",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 39.99
+                    }
+                }
+            },
+            "pieces": 434,
+            "releaseDate": "2026-01-01",
+            "urlPath": "recycling-truck-60495"
+        },
+        {
+            "id": "60491",
+            "locales": {
+                "en-US": {
+                    "name": "Motorcycle Transporter",
+                    "theme": "City",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 19.99
+                    }
+                }
+            },
+            "pieces": 88,
+            "releaseDate": "2026-01-01",
+            "urlPath": "motorcycle-transporter-60491"
+        },
+        {
+            "id": "60489",
+            "locales": {
+                "en-US": {
+                    "name": "Jet vs. Car",
+                    "theme": "City",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 29.99
+                    }
+                }
+            },
+            "pieces": 259,
+            "releaseDate": "2026-01-01",
+            "urlPath": "jet-vs-car-60489"
+        },
+        {
+            "id": "60488",
+            "locales": {
+                "en-US": {
+                    "name": "Fries Food Truck",
+                    "theme": "City",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 19.99
+                    }
+                }
+            },
+            "pieces": 216,
+            "releaseDate": "2026-01-01",
+            "urlPath": "fries-food-truck-60488"
+        },
+        {
+            "id": "60487",
+            "locales": {
+                "en-US": {
+                    "name": "Yellow Taxi",
+                    "theme": "City",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 14.99
+                    }
+                }
+            },
+            "pieces": 122,
+            "releaseDate": "2026-01-01",
+            "urlPath": "yellow-taxi-60487"
+        },
+        {
+            "id": "60479",
+            "locales": {
+                "en-US": {
+                    "name": "Police Prisoner Transport Van",
+                    "theme": "City",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 19.99
+                    }
+                }
+            },
+            "pieces": 198,
+            "releaseDate": "2026-01-01",
+            "urlPath": "police-prisoner-transport-van-60479"
+        },
+        {
+            "id": "60478",
+            "locales": {
+                "en-US": {
+                    "name": "Cement Mixer",
+                    "theme": "City",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 39.99
+                    }
+                }
+            },
+            "pieces": 371,
+            "releaseDate": "2026-01-01",
+            "urlPath": "cement-mixer-60478"
+        },
+        {
+            "id": "60486",
+            "locales": {
+                "en-US": {
+                    "name": "EV Supercar",
+                    "theme": "City",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 9.99
+                    }
+                }
+            },
+            "pieces": 109,
+            "releaseDate": "2026-01-01",
+            "urlPath": "ev-supercar-60486"
+        },
+        {
+            "id": "60485",
+            "locales": {
+                "en-US": {
+                    "name": "Hot Rod",
+                    "theme": "City",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 9.99
+                    }
+                }
+            },
+            "pieces": 81,
+            "releaseDate": "2026-01-01",
+            "urlPath": "hot-rod-60485"
+        },
+        {
+            "id": "60484",
+            "locales": {
+                "en-US": {
+                    "name": "Rides – Gaming Race Car",
+                    "theme": "City",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 9.99
+                    }
+                }
+            },
+            "pieces": 64,
+            "releaseDate": "2026-01-01",
+            "urlPath": "rides-gaming-race-car-60485"
+        },
+        {
+            "id": "60483",
+            "locales": {
+                "en-US": {
+                    "name": "Rides – Construction Loader",
+                    "theme": "City",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 9.99
+                    }
+                }
+            },
+            "pieces": 61,
+            "releaseDate": "2026-01-01",
+            "urlPath": "rides-construction-loader-60483"
+        },
+        {
+            "id": "60482",
+            "locales": {
+                "en-US": {
+                    "name": "Rides – Fire Truck",
+                    "theme": "City",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 9.99
+                    }
+                }
+            },
+            "pieces": 67,
+            "releaseDate": "2026-01-01",
+            "urlPath": "rides-fire-truck-60482"
+        },
+        {
+            "id": "60481",
+            "locales": {
+                "en-US": {
+                    "name": "Rides – Police Truck",
+                    "theme": "City",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 9.99
+                    }
+                }
+            },
+            "pieces": 71,
+            "releaseDate": "2026-01-01",
+            "urlPath": "rides-police-truck-60481"
+        },
+        {
             "id": "42226",
             "locales": {
                 "en-US": {
