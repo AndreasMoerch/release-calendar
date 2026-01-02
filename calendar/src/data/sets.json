@@ -1,20 +1,52 @@
 {
     "releases": [
         {
-            "id": "60500",
+            "id": "11370",
             "locales": {
                 "en-US": {
-                    "name": "The LEGO Van",
-                    "theme": "City",
+                    "name": "Stranger Things: The Creel House",
+                    "theme": "Stranger Things",
                     "price": {
                         "currency": "USD",
-                        "amount": 29.99
+                        "amount": 299.99
                     }
                 }
             },
-            "pieces": 276,
+            "pieces": 2593,
             "releaseDate": "2026-01-01",
-            "urlPath": "the-lego-van-60500"
+            "urlPath": "stranger-things-the-creel-house-11370"
+        },
+        {
+            "id": "11371",
+            "locales": {
+                "en-US": {
+                    "name": "Shopping Street",
+                    "theme": "LEGO Icons",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 249.99
+                    }
+                }
+            },
+            "pieces": 3456,
+            "releaseDate": "2026-01-01",
+            "urlPath": "shopping-street-11371"
+        },
+        {
+            "id": "11372",
+            "locales": {
+                "en-US": {
+                    "name": "Autumn Cottage Garden",
+                    "theme": "LEGO Icons",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 119.99
+                    }
+                }
+            },
+            "pieces": 11002,
+            "releaseDate": "2026-01-01",
+            "urlPath": "autumn-cottage-garden-11372"
         },
         {
             "id": "11501",
@@ -33,6 +65,70 @@
             "urlPath": "tulip-bouquet-11501"
         },
         {
+            "id": "21064",
+            "locales": {
+                "en-US": {
+                    "name": "Paris – City of Love",
+                    "theme": "Architecture",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 79.99
+                    }
+                }
+            },
+            "pieces": 958,
+            "releaseDate": "2026-01-01",
+            "urlPath": "architecture-21064-21064"
+        },
+        {
+            "id": "21365",
+            "locales": {
+                "en-US": {
+                    "name": "Love Birds",
+                    "theme": "Ideas",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 49.99
+                    }
+                }
+            },
+            "pieces": 750,
+            "releaseDate": "2026-01-01",
+            "urlPath": "love-birds-21365"
+        },
+        {
+            "id": "31218",
+            "locales": {
+                "en-US": {
+                    "name": "Japanese Cherry Blossom Landscape",
+                    "theme": "Art",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 139.99
+                    }
+                }
+            },
+            "pieces": 1892,
+            "releaseDate": "2026-01-01",
+            "urlPath": "japanese-cherry-blossom-landscape-31218"
+        },
+        {
+            "id": "31378",
+            "locales": {
+                "en-US": {
+                    "name": "Space Exploration Telescope",
+                    "theme": "Creator 3-in-1",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 34.99
+                    }
+                }
+            },
+            "pieces": 278,
+            "releaseDate": "2026-01-01",
+            "urlPath": "space-exploration-telescope-31378"
+        },
+        {
             "id": "40725",
             "locales": {
                 "en-US": {
@@ -47,6 +143,214 @@
             "pieces": 430,
             "releaseDate": "2026-01-01",
             "urlPath": "cherry-blossoms-40725"
+        },
+        {
+            "id": "42226",
+            "locales": {
+                "en-US": {
+                    "name": "BMW M4 GT3 EVO Race Car",
+                    "theme": "Technic",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 64.99
+                    }
+                }
+            },
+            "pieces": 747,
+            "releaseDate": "2026-03-01",
+            "urlPath": "bmw-m4-gt3-evo-race-car-42226"
+        },
+        {
+            "id": "43288",
+            "locales": {
+                "en-US": {
+                    "name": "Sally's Flowerpot",
+                    "theme": "Disney",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 49.99
+                    }
+                }
+            },
+            "pieces": 346,
+            "releaseDate": "2026-03-01",
+            "urlPath": "sallys-flowerpot-43288"
+        },
+        {
+            "id": "60478",
+            "locales": {
+                "en-US": {
+                    "name": "Cement Mixer",
+                    "theme": "City",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 39.99
+                    }
+                }
+            },
+            "pieces": 371,
+            "releaseDate": "2026-01-01",
+            "urlPath": "cement-mixer-60478"
+        },
+        {
+            "id": "60479",
+            "locales": {
+                "en-US": {
+                    "name": "Police Prisoner Transport Van",
+                    "theme": "City",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 19.99
+                    }
+                }
+            },
+            "pieces": 198,
+            "releaseDate": "2026-01-01",
+            "urlPath": "police-prisoner-transport-van-60479"
+        },
+        {
+            "id": "60481",
+            "locales": {
+                "en-US": {
+                    "name": "Rides – Police Truck",
+                    "theme": "City",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 9.99
+                    }
+                }
+            },
+            "pieces": 71,
+            "releaseDate": "2026-01-01",
+            "urlPath": "rides-police-truck-60481"
+        },
+        {
+            "id": "60482",
+            "locales": {
+                "en-US": {
+                    "name": "Rides – Fire Truck",
+                    "theme": "City",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 9.99
+                    }
+                }
+            },
+            "pieces": 67,
+            "releaseDate": "2026-01-01",
+            "urlPath": "rides-fire-truck-60482"
+        },
+        {
+            "id": "60483",
+            "locales": {
+                "en-US": {
+                    "name": "Rides – Construction Loader",
+                    "theme": "City",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 9.99
+                    }
+                }
+            },
+            "pieces": 61,
+            "releaseDate": "2026-01-01",
+            "urlPath": "rides-construction-loader-60483"
+        },
+        {
+            "id": "60484",
+            "locales": {
+                "en-US": {
+                    "name": "Rides – Gaming Race Car",
+                    "theme": "City",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 9.99
+                    }
+                }
+            },
+            "pieces": 64,
+            "releaseDate": "2026-01-01",
+            "urlPath": "rides-gaming-race-car-60485"
+        },
+        {
+            "id": "60485",
+            "locales": {
+                "en-US": {
+                    "name": "Hot Rod",
+                    "theme": "City",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 9.99
+                    }
+                }
+            },
+            "pieces": 81,
+            "releaseDate": "2026-01-01",
+            "urlPath": "hot-rod-60485"
+        },
+        {
+            "id": "60486",
+            "locales": {
+                "en-US": {
+                    "name": "EV Supercar",
+                    "theme": "City",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 9.99
+                    }
+                }
+            },
+            "pieces": 109,
+            "releaseDate": "2026-01-01",
+            "urlPath": "ev-supercar-60486"
+        },
+        {
+            "id": "60487",
+            "locales": {
+                "en-US": {
+                    "name": "Yellow Taxi",
+                    "theme": "City",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 14.99
+                    }
+                }
+            },
+            "pieces": 122,
+            "releaseDate": "2026-01-01",
+            "urlPath": "yellow-taxi-60487"
+        },
+        {
+            "id": "60488",
+            "locales": {
+                "en-US": {
+                    "name": "Fries Food Truck",
+                    "theme": "City",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 19.99
+                    }
+                }
+            },
+            "pieces": 216,
+            "releaseDate": "2026-01-01",
+            "urlPath": "fries-food-truck-60488"
+        },
+        {
+            "id": "60489",
+            "locales": {
+                "en-US": {
+                    "name": "Jet vs. Car",
+                    "theme": "City",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 29.99
+                    }
+                }
+            },
+            "pieces": 259,
+            "releaseDate": "2026-01-01",
+            "urlPath": "jet-vs-car-60489"
         },
         {
             "id": "60490",
@@ -97,212 +401,20 @@
             "urlPath": "recycling-truck-60495"
         },
         {
-            "id": "31378",
+            "id": "60498",
             "locales": {
                 "en-US": {
-                    "name": "Space Exploration Telescope",
-                    "theme": "Creator 3-in-1",
-                    "price": {
-                        "currency": "USD",
-                        "amount": 34.99
-                    }
-                }
-            },
-            "pieces": 278,
-            "releaseDate": "2026-01-01",
-            "urlPath": "space-exploration-telescope-31378"
-        },
-        {
-            "id": "21064",
-            "locales": {
-                "en-US": {
-                    "name": "Paris – City of Love",
-                    "theme": "Architecture",
-                    "price": {
-                        "currency": "USD",
-                        "amount": 79.99
-                    }
-                }
-            },
-            "pieces": 958,
-            "releaseDate": "2026-01-01",
-            "urlPath": "architecture-21064-21064"
-        },
-        {
-            "id": "77256",
-            "locales": {
-                "en-US": {
-                    "name": "Time Machine from Back to the Future",
-                    "theme": "Speed Champions",
-                    "price": {
-                        "currency": "USD",
-                        "amount": 27.99
-                    }
-                }
-            },
-            "pieces": 357,
-            "releaseDate": "2026-01-01",
-            "urlPath": "time-machine-from-back-to-the-future-77256"
-        },
-        {
-            "id": "31218",
-            "locales": {
-                "en-US": {
-                    "name": "Japanese Cherry Blossom Landscape",
-                    "theme": "Art",
-                    "price": {
-                        "currency": "USD",
-                        "amount": 139.99
-                    }
-                }
-            },
-            "pieces": 1892,
-            "releaseDate": "2026-01-01",
-            "urlPath": "japanese-cherry-blossom-landscape-31218"
-        },
-        {
-            "id": "11370",
-            "locales": {
-                "en-US": {
-                    "name": "Stranger Things: The Creel House",
-                    "theme": "Stranger Things",
-                    "price": {
-                        "currency": "USD",
-                        "amount": 299.99
-                    }
-                }
-            },
-            "pieces": 2593,
-            "releaseDate": "2026-01-01",
-            "urlPath": "stranger-things-the-creel-house-11370"
-        },
-        {
-            "id": "11371",
-            "locales": {
-                "en-US": {
-                    "name": "Shopping Street",
-                    "theme": "LEGO Icons",
-                    "price": {
-                        "currency": "USD",
-                        "amount": 249.99
-                    }
-                }
-            },
-            "pieces": 3456,
-            "releaseDate": "2026-01-01",
-            "urlPath": "shopping-street-11371"
-        },
-        {
-            "id": "11372",
-            "locales": {
-                "en-US": {
-                    "name": "Autumn Cottage Garden",
-                    "theme": "LEGO Icons",
-                    "price": {
-                        "currency": "USD",
-                        "amount": 119.99
-                    }
-                }
-            },
-            "pieces": 11002,
-            "releaseDate": "2026-01-01",
-            "urlPath": "autumn-cottage-garden-11372"
-        },
-        {
-            "id": "21365",
-            "locales": {
-                "en-US": {
-                    "name": "Love Birds",
-                    "theme": "Ideas",
-                    "price": {
-                        "currency": "USD",
-                        "amount": 49.99
-                    }
-                }
-            },
-            "pieces": 750,
-            "releaseDate": "2026-01-01",
-            "urlPath": "love-birds-21365"
-        },
-        {
-            "id": "71051",
-            "locales": {
-                "en-US": {
-                    "name": "Animals Series 28",
-                    "theme": "Minifigures",
-                    "price": {
-                        "currency": "USD",
-                        "amount": 4.99
-                    }
-                }
-            },
-            "pieces": 7,
-            "releaseDate": "2026-01-01",
-            "urlPath": "animals-series-28-71051"
-        },
-        {
-            "id": "60505",
-            "locales": {
-                "en-US": {
-                    "name": "Airplane, Service Truck & Hovercraft Remix",
+                    "name": "Tractor",
                     "theme": "City",
                     "price": {
                         "currency": "USD",
-                        "amount": 69.99
+                        "amount": 19.99
                     }
                 }
             },
-            "pieces": 632,
+            "pieces": 204,
             "releaseDate": "2026-01-01",
-            "urlPath": "airplane-service-truck-hovercraft-remix-60505"
-        },
-        {
-            "id": "60504",
-            "locales": {
-                "en-US": {
-                    "name": "Coast Guard Rescue Boat & Helicopter",
-                    "theme": "City",
-                    "price": {
-                        "currency": "USD",
-                        "amount": 99.99
-                    }
-                }
-            },
-            "pieces": 742,
-            "releaseDate": "2026-01-01",
-            "urlPath": "coast-guard-rescue-boat-helicopter-60504"
-        },
-        {
-            "id": "60503",
-            "locales": {
-                "en-US": {
-                    "name": "Coast Guard Helicopter",
-                    "theme": "City",
-                    "price": {
-                        "currency": "USD",
-                        "amount": 64.99
-                    }
-                }
-            },
-            "pieces": 426,
-            "releaseDate": "2026-01-01",
-            "urlPath": "coast-guard-helicopter-60503"
-        },
-        {
-            "id": "60502",
-            "locales": {
-                "en-US": {
-                    "name": "Airport with Airplane",
-                    "theme": "City",
-                    "price": {
-                        "currency": "USD",
-                        "amount": 99.99
-                    }
-                }
-            },
-            "pieces": 426,
-            "releaseDate": "2026-01-01",
-            "urlPath": "airport-with-airplane-60502"
+            "urlPath": "tractor-60498"
         },
         {
             "id": "60499",
@@ -321,42 +433,10 @@
             "urlPath": "airport-fire-truck-60499"
         },
         {
-            "id": "60498",
+            "id": "60500",
             "locales": {
                 "en-US": {
-                    "name": "Tractor",
-                    "theme": "City",
-                    "price": {
-                        "currency": "USD",
-                        "amount": 19.99
-                    }
-                }
-            },
-            "pieces": 204,
-            "releaseDate": "2026-01-01",
-            "urlPath": "tractor-60498"
-        },
-        {
-            "id": "60495",
-            "locales": {
-                "en-US": {
-                    "name": "Recycling Truck",
-                    "theme": "City",
-                    "price": {
-                        "currency": "USD",
-                        "amount": 39.99
-                    }
-                }
-            },
-            "pieces": 434,
-            "releaseDate": "2026-01-01",
-            "urlPath": "recycling-truck-60495"
-        },
-        {
-            "id": "60489",
-            "locales": {
-                "en-US": {
-                    "name": "Jet vs. Car",
+                    "name": "The LEGO Van",
                     "theme": "City",
                     "price": {
                         "currency": "USD",
@@ -364,297 +444,89 @@
                     }
                 }
             },
-            "pieces": 259,
+            "pieces": 276,
             "releaseDate": "2026-01-01",
-            "urlPath": "jet-vs-car-60489"
+            "urlPath": "the-lego-van-60500"
         },
         {
-            "id": "60488",
+            "id": "60502",
             "locales": {
                 "en-US": {
-                    "name": "Fries Food Truck",
+                    "name": "Airport with Airplane",
                     "theme": "City",
                     "price": {
                         "currency": "USD",
-                        "amount": 19.99
+                        "amount": 99.99
                     }
                 }
             },
-            "pieces": 216,
+            "pieces": 426,
             "releaseDate": "2026-01-01",
-            "urlPath": "fries-food-truck-60488"
+            "urlPath": "airport-with-airplane-60502"
         },
         {
-            "id": "60487",
+            "id": "60503",
             "locales": {
                 "en-US": {
-                    "name": "Yellow Taxi",
+                    "name": "Coast Guard Helicopter",
                     "theme": "City",
-                    "price": {
-                        "currency": "USD",
-                        "amount": 14.99
-                    }
-                }
-            },
-            "pieces": 122,
-            "releaseDate": "2026-01-01",
-            "urlPath": "yellow-taxi-60487"
-        },
-        {
-            "id": "60479",
-            "locales": {
-                "en-US": {
-                    "name": "Police Prisoner Transport Van",
-                    "theme": "City",
-                    "price": {
-                        "currency": "USD",
-                        "amount": 19.99
-                    }
-                }
-            },
-            "pieces": 198,
-            "releaseDate": "2026-01-01",
-            "urlPath": "police-prisoner-transport-van-60479"
-        },
-        {
-            "id": "60478",
-            "locales": {
-                "en-US": {
-                    "name": "Cement Mixer",
-                    "theme": "City",
-                    "price": {
-                        "currency": "USD",
-                        "amount": 39.99
-                    }
-                }
-            },
-            "pieces": 371,
-            "releaseDate": "2026-01-01",
-            "urlPath": "cement-mixer-60478"
-        },
-        {
-            "id": "60486",
-            "locales": {
-                "en-US": {
-                    "name": "EV Supercar",
-                    "theme": "City",
-                    "price": {
-                        "currency": "USD",
-                        "amount": 9.99
-                    }
-                }
-            },
-            "pieces": 109,
-            "releaseDate": "2026-01-01",
-            "urlPath": "ev-supercar-60486"
-        },
-        {
-            "id": "60485",
-            "locales": {
-                "en-US": {
-                    "name": "Hot Rod",
-                    "theme": "City",
-                    "price": {
-                        "currency": "USD",
-                        "amount": 9.99
-                    }
-                }
-            },
-            "pieces": 81,
-            "releaseDate": "2026-01-01",
-            "urlPath": "hot-rod-60485"
-        },
-        {
-            "id": "60484",
-            "locales": {
-                "en-US": {
-                    "name": "Rides – Gaming Race Car",
-                    "theme": "City",
-                    "price": {
-                        "currency": "USD",
-                        "amount": 9.99
-                    }
-                }
-            },
-            "pieces": 64,
-            "releaseDate": "2026-01-01",
-            "urlPath": "rides-gaming-race-car-60485"
-        },
-        {
-            "id": "60483",
-            "locales": {
-                "en-US": {
-                    "name": "Rides – Construction Loader",
-                    "theme": "City",
-                    "price": {
-                        "currency": "USD",
-                        "amount": 9.99
-                    }
-                }
-            },
-            "pieces": 61,
-            "releaseDate": "2026-01-01",
-            "urlPath": "rides-construction-loader-60483"
-        },
-        {
-            "id": "60482",
-            "locales": {
-                "en-US": {
-                    "name": "Rides – Fire Truck",
-                    "theme": "City",
-                    "price": {
-                        "currency": "USD",
-                        "amount": 9.99
-                    }
-                }
-            },
-            "pieces": 67,
-            "releaseDate": "2026-01-01",
-            "urlPath": "rides-fire-truck-60482"
-        },
-        {
-            "id": "60481",
-            "locales": {
-                "en-US": {
-                    "name": "Rides – Police Truck",
-                    "theme": "City",
-                    "price": {
-                        "currency": "USD",
-                        "amount": 9.99
-                    }
-                }
-            },
-            "pieces": 71,
-            "releaseDate": "2026-01-01",
-            "urlPath": "rides-police-truck-60481"
-        },
-        {
-            "id": "77252",
-            "locales": {
-                "en-US": {
-                    "name": "APXGP Team Race Car from F1 The Movie",
-                    "theme": "Speed Champions",
-                    "price": {
-                        "currency": "USD",
-                        "amount": 27.99
-                    }
-                }
-            },
-            "pieces": 268,
-            "releaseDate": "2026-01-01",
-            "urlPath": "apxgp-team-race-car-from-f1-the-movie-77252"
-        },
-        {
-            "id": "77255",
-            "locales": {
-                "en-US": {
-                    "name": "Lightning McQueen",
-                    "theme": "Speed Champions",
-                    "price": {
-                        "currency": "USD",
-                        "amount": 27.99
-                    }
-                }
-            },
-            "pieces": 270,
-            "releaseDate": "2026-01-01",
-            "urlPath": "lightning-mcqueen-77255"
-        },
-        {
-            "id": "77254",
-            "locales": {
-                "en-US": {
-                    "name": "Ferrari SF90 XX Stradale Sports Car",
-                    "theme": "Speed Champions",
-                    "price": {
-                        "currency": "USD",
-                        "amount": 27.99
-                    }
-                }
-            },
-            "pieces": 339,
-            "releaseDate": "2026-01-01",
-            "urlPath": "ferrari-sf90-xx-stradale-sports-car-77254"
-        },
-        {
-            "id": "77253",
-            "locales": {
-                "en-US": {
-                    "name": "Bugatti Vision GT Hyper Sports Car",
-                    "theme": "Speed Champions",
-                    "price": {
-                        "currency": "USD",
-                        "amount": 27.99
-                    }
-                }
-            },
-            "pieces": 284,
-            "releaseDate": "2026-01-01",
-            "urlPath": "bugatti-vision-gt-hyper-sports-car-77253"
-        },
-        {
-            "id": "77257",
-            "locales": {
-                "en-US": {
-                    "name": "McLaren W1",
-                    "theme": "Speed Champions",
-                    "price": {
-                        "currency": "USD",
-                        "amount": 27.99
-                    }
-                }
-            },
-            "pieces": 287,
-            "releaseDate": "2026-01-01",
-            "urlPath": "mclaren-w1-77257"
-        },
-        {
-            "id": "75440",
-            "locales": {
-                "en-US": {
-                    "name": "AT-AT",
-                    "theme": "Star Wars",
                     "price": {
                         "currency": "USD",
                         "amount": 64.99
                     }
                 }
             },
-            "pieces": 525,
+            "pieces": 426,
             "releaseDate": "2026-01-01",
-            "urlPath": "at-at-75440"
+            "urlPath": "coast-guard-helicopter-60503"
         },
         {
-            "id": "75441",
+            "id": "60504",
             "locales": {
                 "en-US": {
-                    "name": "Venator-Class Attack Cruiser",
-                    "theme": "Star Wars",
+                    "name": "Coast Guard Rescue Boat & Helicopter",
+                    "theme": "City",
                     "price": {
                         "currency": "USD",
-                        "amount": 79.99
+                        "amount": 99.99
                     }
                 }
             },
-            "pieces": 643,
+            "pieces": 742,
             "releaseDate": "2026-01-01",
-            "urlPath": "venator-class-attack-cruiser-75441"
+            "urlPath": "coast-guard-rescue-boat-helicopter-60504"
         },
         {
-            "id": "75452",
+            "id": "60505",
             "locales": {
                 "en-US": {
-                    "name": "BB-8 Astromech Droid",
-                    "theme": "Star Wars",
+                    "name": "Airplane, Service Truck & Hovercraft Remix",
+                    "theme": "City",
                     "price": {
                         "currency": "USD",
-                        "amount": 89.99
+                        "amount": 69.99
                     }
                 }
             },
-            "pieces": 569,
+            "pieces": 632,
             "releaseDate": "2026-01-01",
-            "urlPath": "bb-8-astromech-droid-75452"
+            "urlPath": "airplane-service-truck-hovercraft-remix-60505"
+        },
+        {
+            "id": "71051",
+            "locales": {
+                "en-US": {
+                    "name": "Animals Series 28",
+                    "theme": "Minifigures",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 4.99
+                    }
+                }
+            },
+            "pieces": 7,
+            "releaseDate": "2026-01-01",
+            "urlPath": "animals-series-28-71051"
         },
         {
             "id": "75436",
@@ -687,6 +559,38 @@
             "pieces": 207,
             "releaseDate": "2026-01-01",
             "urlPath": "cobb-vanths-speeder-75437"
+        },
+        {
+            "id": "75440",
+            "locales": {
+                "en-US": {
+                    "name": "AT-AT",
+                    "theme": "Star Wars",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 64.99
+                    }
+                }
+            },
+            "pieces": 525,
+            "releaseDate": "2026-01-01",
+            "urlPath": "at-at-75440"
+        },
+        {
+            "id": "75441",
+            "locales": {
+                "en-US": {
+                    "name": "Venator-Class Attack Cruiser",
+                    "theme": "Star Wars",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 79.99
+                    }
+                }
+            },
+            "pieces": 643,
+            "releaseDate": "2026-01-01",
+            "urlPath": "venator-class-attack-cruiser-75441"
         },
         {
             "id": "75443",
@@ -737,36 +641,116 @@
             "urlPath": "siege-of-mandalore-battle-pack-75449"
         },
         {
-            "id": "42226",
+            "id": "75452",
             "locales": {
                 "en-US": {
-                    "name": "BMW M4 GT3 EVO Race Car",
-                    "theme": "Technic",
+                    "name": "BB-8 Astromech Droid",
+                    "theme": "Star Wars",
                     "price": {
                         "currency": "USD",
-                        "amount": 64.99
+                        "amount": 89.99
                     }
                 }
             },
-            "pieces": 747,
-            "releaseDate": "2026-03-01",
-            "urlPath": "bmw-m4-gt3-evo-race-car-42226"
+            "pieces": 569,
+            "releaseDate": "2026-01-01",
+            "urlPath": "bb-8-astromech-droid-75452"
         },
         {
-            "id": "43288",
+            "id": "77252",
             "locales": {
                 "en-US": {
-                    "name": "Sally's Flowerpot",
-                    "theme": "Disney",
+                    "name": "APXGP Team Race Car from F1 The Movie",
+                    "theme": "Speed Champions",
                     "price": {
                         "currency": "USD",
-                        "amount": 49.99
+                        "amount": 27.99
                     }
                 }
             },
-            "pieces": 346,
-            "releaseDate": "2026-03-01",
-            "urlPath": "sallys-flowerpot-43288"
+            "pieces": 268,
+            "releaseDate": "2026-01-01",
+            "urlPath": "apxgp-team-race-car-from-f1-the-movie-77252"
+        },
+        {
+            "id": "77253",
+            "locales": {
+                "en-US": {
+                    "name": "Bugatti Vision GT Hyper Sports Car",
+                    "theme": "Speed Champions",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 27.99
+                    }
+                }
+            },
+            "pieces": 284,
+            "releaseDate": "2026-01-01",
+            "urlPath": "bugatti-vision-gt-hyper-sports-car-77253"
+        },
+        {
+            "id": "77254",
+            "locales": {
+                "en-US": {
+                    "name": "Ferrari SF90 XX Stradale Sports Car",
+                    "theme": "Speed Champions",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 27.99
+                    }
+                }
+            },
+            "pieces": 339,
+            "releaseDate": "2026-01-01",
+            "urlPath": "ferrari-sf90-xx-stradale-sports-car-77254"
+        },
+        {
+            "id": "77255",
+            "locales": {
+                "en-US": {
+                    "name": "Lightning McQueen",
+                    "theme": "Speed Champions",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 27.99
+                    }
+                }
+            },
+            "pieces": 270,
+            "releaseDate": "2026-01-01",
+            "urlPath": "lightning-mcqueen-77255"
+        },
+        {
+            "id": "77256",
+            "locales": {
+                "en-US": {
+                    "name": "Time Machine from Back to the Future",
+                    "theme": "Speed Champions",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 27.99
+                    }
+                }
+            },
+            "pieces": 357,
+            "releaseDate": "2026-01-01",
+            "urlPath": "time-machine-from-back-to-the-future-77256"
+        },
+        {
+            "id": "77257",
+            "locales": {
+                "en-US": {
+                    "name": "McLaren W1",
+                    "theme": "Speed Champions",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 27.99
+                    }
+                }
+            },
+            "pieces": 287,
+            "releaseDate": "2026-01-01",
+            "urlPath": "mclaren-w1-77257"
         }
     ]
 }
