@@ -145,20 +145,148 @@
             "urlPath": "time-machine-from-back-to-the-future-77256"
         },
         {
-            "id": "43290",
+            "id": "31218",
             "locales": {
                 "en-US": {
-                    "name": "Kevin & Dug",
-                    "theme": "Disney",
+                    "name": "Japanese Cherry Blossom Landscape",
+                    "theme": "Art",
                     "price": {
                         "currency": "USD",
-                        "amount": 59.99
+                        "amount": 139.99
                     }
                 }
             },
-            "pieces": 628,
+            "pieces": 1892,
+            "releaseDate": "2026-01-01",
+            "urlPath": "japanese-cherry-blossom-landscape-31218"
+        },
+        {
+            "id": "11370",
+            "locales": {
+                "en-US": {
+                    "name": "Stranger Things: The Creel House",
+                    "theme": "Stranger Things",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 299.99
+                    }
+                }
+            },
+            "pieces": 2593,
+            "releaseDate": "2026-01-01",
+            "urlPath": "stranger-things-the-creel-house-11370"
+        },
+        {
+            "id": "11371",
+            "locales": {
+                "en-US": {
+                    "name": "Shopping Street",
+                    "theme": "LEGO Icons",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 249.99
+                    }
+                }
+            },
+            "pieces": 3456,
             "releaseDate": "2026-03-01",
-            "urlPath": "kevin-dug-43290"
+            "urlPath": "shopping-street-11371"
+        },
+        {
+            "id": "11372",
+            "locales": {
+                "en-US": {
+                    "name": "Autumn Cottage Garden",
+                    "theme": "LEGO Icons",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 119.99
+                    }
+                }
+            },
+            "pieces": 11002,
+            "releaseDate": "2026-03-01",
+            "urlPath": "autumn-cottage-garden-11372"
+        },
+        {
+            "id": "21365",
+            "locales": {
+                "en-US": {
+                    "name": "Love Birds",
+                    "theme": "Ideas",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 49.99
+                    }
+                }
+            },
+            "pieces": 750,
+            "releaseDate": "2026-03-01",
+            "urlPath": "love-birds-21365"
+        },
+        {
+            "id": "71051",
+            "locales": {
+                "en-US": {
+                    "name": "Animals Series 28",
+                    "theme": "Minifigures",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 4.99
+                    }
+                }
+            },
+            "pieces": 7,
+            "releaseDate": "2026-03-01",
+            "urlPath": "animals-series-28-71051"
+        },
+        {
+            "id": "60505",
+            "locales": {
+                "en-US": {
+                    "name": "Airplane, Service Truck & Hovercraft Remix",
+                    "theme": "City",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 69.99
+                    }
+                }
+            },
+            "pieces": 632,
+            "releaseDate": "2026-01-01",
+            "urlPath": "airplane-service-truck-hovercraft-remix-60505"
+        },
+        {
+            "id": "60504",
+            "locales": {
+                "en-US": {
+                    "name": "Coast Guard Rescue Boat & Helicopter",
+                    "theme": "City",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 99.99
+                    }
+                }
+            },
+            "pieces": 742,
+            "releaseDate": "2026-03-01",
+            "urlPath": "coast-guard-rescue-boat-helicopter-60504"
+        },
+        {
+            "id": "60503",
+            "locales": {
+                "en-US": {
+                    "name": "Coast Guard Helicopter",
+                    "theme": "City",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 64.99
+                    }
+                }
+            },
+            "pieces": 426,
+            "releaseDate": "2026-01-01",
+            "urlPath": "coast-guard-helicopter-60503"
         },
         {
             "id": "42226",
