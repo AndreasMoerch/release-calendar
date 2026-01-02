@@ -65,6 +65,54 @@
             "urlPath": "tulip-bouquet-11501"
         },
         {
+            "id": "11504",
+            "locales": {
+                "en-US": {
+                    "name": "Peace Lily",
+                    "theme": "The Botanical Collection",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 49.99
+                    }
+                }
+            },
+            "pieces": 474,
+            "releaseDate": "2026-01-01",
+            "urlPath": "peace-lily-11504"
+        },
+        {
+            "id": "11508",
+            "locales": {
+                "en-US": {
+                    "name": "Daisies",
+                    "theme": "The Botanical Collection",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 14.99
+                    }
+                }
+            },
+            "pieces": 133,
+            "releaseDate": "2026-01-01",
+            "urlPath": "daisies-11508"
+        },
+        {
+            "id": "11509",
+            "locales": {
+                "en-US": {
+                    "name": "Flowering Cactus",
+                    "theme": "The Botanical Collection",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 34.99
+                    }
+                }
+            },
+            "pieces": 482,
+            "releaseDate": "2026-01-01",
+            "urlPath": "flowering-cactus-11509"
+        },
+        {
             "id": "21064",
             "locales": {
                 "en-US": {
