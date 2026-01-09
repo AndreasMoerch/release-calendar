@@ -1,4 +1,4 @@
-import type { LEGOSet } from "../../types/LEGOSet";
+import type { Set } from "../../types/Set";
 import { formatDayName, formatMonthName, formatDayNumber } from "../../utils/dateFormatter";
 import { sortByTheme } from "../../utils/setUtils";
 import ListViewItemDetails from "./ListViewItemDetails";
@@ -6,20 +6,20 @@ import './ListViewItem.css';
 
 interface ListViewItemProps {
     /**
-     * Non-empty list of LEGO sets to releasing on the same day.
+     * Non-empty list of sets to releasing on the same day.
      */
-    sets: LEGOSet[]
+    sets: Set[]
 
     /**
-     * Non-null release date for the LEGO sets.
+     * Non-null release date for the sets.
      */
     releaseDate: Date;
 }
 
 /**
- * ListViewItem component to display details of multiple LEGO sets for a specific release date.
- * @param ListViewItemProps - Props containing a LEGO set to display.
- * @returns a JSX element rendering the details of the LEGO set.
+ * ListViewItem component to display details of multiple sets for a specific release date.
+ * @param ListViewItemProps - Props containing a set to display.
+ * @returns a JSX element rendering the details of the set.
  */
 const ListViewItem: React.FC<ListViewItemProps> = ({ releaseDate, sets }) => {
 

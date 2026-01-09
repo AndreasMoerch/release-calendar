@@ -1,6 +1,6 @@
 import './App.css'
 import { ListView } from './components/ListView'
-import { LEGOSets } from './data'
+import { AllSets } from './data'
 import { useUserLocale } from './hooks/useUserLocale'
 
 function App() {
@@ -10,7 +10,7 @@ function App() {
   return (
     <>
       <div>
-        <ListView sets={LEGOSets(userLocale)} />
+        <ListView sets={AllSets(userLocale)} />
       </div>
     </>
   )

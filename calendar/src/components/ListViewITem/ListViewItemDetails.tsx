@@ -1,4 +1,4 @@
-import type { LEGOSet } from "../../types/LEGOSet";
+import type { Set } from "../../types/Set";
 import { formatPriceWithCurrency } from "../../utils/priceFormatter";
 import { generateUrlForSet } from "../../utils/setUtils";
 import { FaExternalLinkAlt } from "react-icons/fa";
@@ -6,15 +6,15 @@ import './ListViewItem.css';
 
 interface ListViewItemDetailsProps {
     /**
-     * Single non-null LEGO set to display.
+     * Single non-null set to display.
      */
-    set: LEGOSet
+    set: Set
 }
 
 /**
- * ListViewItemDetails component to display details of a single LEGO set.
- * @param ListViewItemDetailsProps - Props containing a LEGO set to display.
- * @returns a JSX element rendering the details of the LEGO set.
+ * ListViewItemDetails component to display details of a single set.
+ * @param ListViewItemDetailsProps - Props containing a set to display.
+ * @returns a JSX element rendering the details of the set.
  */
 const ListViewItemDetails: React.FC<ListViewItemDetailsProps> = ({ set }) => {
 

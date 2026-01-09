@@ -1,8 +1,8 @@
-import type { LEGOSet } from "../types/LEGOSet";
+import type { Set } from "../types/Set";
 import { generateUrlForSet, groupByReleaseDateSorted, setReleasesAfterDateFilter, sortByTheme } from './setUtils';
 
-// Mock LEGO set data for testing
-const mockLEGOSet: LEGOSet = {
+// Mock set data for testing
+const mockSet: Set = {
   id: "10001",
   name: "Test Set",
   theme: "Test Theme",
@@ -16,13 +16,13 @@ const mockLEGOSet: LEGOSet = {
 };
 
 describe('sortByTheme', () => {
-    it('should group and sort LEGO sets by their release dates', () => {
-        const sets: LEGOSet[] = [
-            { ...mockLEGOSet, id: "4", theme: "City" },
-            { ...mockLEGOSet, id: "1", theme: "Architecture" },
-            { ...mockLEGOSet, id: "5", theme: "Dinsey" },
-            { ...mockLEGOSet, id: "2", theme: "Architecture" },
-            { ...mockLEGOSet, id: "3", theme: "City" },
+    it('should group and sort sets by their themes', () => {
+        const sets: Set[] = [
+            { ...mockSet, id: "4", theme: "City" },
+            { ...mockSet, id: "1", theme: "Architecture" },
+            { ...mockSet, id: "5", theme: "Dinsey" },
+            { ...mockSet, id: "2", theme: "Architecture" },
+            { ...mockSet, id: "3", theme: "City" },
         ];
 
         const result = sortByTheme(sets);
@@ -46,29 +46,29 @@ describe('sortByTheme', () => {
 
 describe('setReleasesAfterDateFilter', () => {
     it('should filter sets released on or after the specified date', () => {
-        const sets: LEGOSet[] = [
-            { ...mockLEGOSet, releaseDate: new Date('2026-01-01') }, // Before
-            { ...mockLEGOSet, releaseDate: new Date('2026-01-15') }, // Before
-            { ...mockLEGOSet, releaseDate: new Date('2026-02-01') }, // Inclusive (same date as filter)
-            { ...mockLEGOSet, releaseDate: new Date('2026-02-15') }, // After
+        const sets: Set[] = [
+            { ...mockSet, releaseDate: new Date('2026-01-01') }, // Before
+            { ...mockSet, releaseDate: new Date('2026-01-15') }, // Before
+            { ...mockSet, releaseDate: new Date('2026-02-01') }, // Inclusive (same date as filter)
+            { ...mockSet, releaseDate: new Date('2026-02-15') }, // After
         ];
 
         const result = setReleasesAfterDateFilter(sets, new Date('2026-02-01'));
         expect(result).toStrictEqual([
-            { ...mockLEGOSet, releaseDate: new Date('2026-02-01') },
-            { ...mockLEGOSet, releaseDate: new Date('2026-02-15') },
+            { ...mockSet, releaseDate: new Date('2026-02-01') },
+            { ...mockSet, releaseDate: new Date('2026-02-15') },
         ]);
     });
 });
 
 
 describe('groupByReleaseDateSorted', () => {
-    it('should group and sort LEGO sets by their release dates', () => {
-        const sets: LEGOSet[] = [
-            { ...mockLEGOSet, id: "10002", releaseDate: new Date('2026-02-01') },
-            { ...mockLEGOSet, id: "10003", releaseDate: new Date('2026-01-15') },
-            { ...mockLEGOSet, id: "10004", releaseDate: new Date('2026-01-01') },
-            { ...mockLEGOSet, id: "10005", releaseDate: new Date('2026-02-01') },
+    it('should group and sort sets by their release dates', () => {
+        const sets: Set[] = [
+            { ...mockSet, id: "10002", releaseDate: new Date('2026-02-01') },
+            { ...mockSet, id: "10003", releaseDate: new Date('2026-01-15') },
+            { ...mockSet, id: "10004", releaseDate: new Date('2026-01-01') },
+            { ...mockSet, id: "10005", releaseDate: new Date('2026-02-01') },
         ];
 
         const result = groupByReleaseDateSorted(sets);
@@ -86,8 +86,8 @@ describe('groupByReleaseDateSorted', () => {
 });
 
 describe('generateUrlForSet', () => {
-  it('should generate the correct URL for a LEGO set', () => {
-    const result = generateUrlForSet(mockLEGOSet);
+  it('should generate the correct URL for a set', () => {
+    const result = generateUrlForSet(mockSet);
     expect(result).toBe('https://www.lego.com/en-us/product/test-set-10001');
   });
 }); 

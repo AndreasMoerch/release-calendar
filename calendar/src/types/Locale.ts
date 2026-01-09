@@ -1,4 +1,4 @@
 /**
- * Supported locales for the LEGO sets data.
+ * Supported locales for the sets data.
  */
 export type Locale = "en-US";

@@ -1,9 +1,9 @@
 
-import type { LEGOSet } from '../types/LEGOSet';
+import type { Set } from '../types/Set';
 import { formatPriceWithCurrency } from './priceFormatter';
 
-// Mock LEGO set data for testing
-const mockLEGOSet: LEGOSet = {
+// Mock set data for testing
+const mockSet: Set = {
   id: "10001",
   name: "Test Set",
   theme: "Test Theme",
@@ -18,24 +18,24 @@ const mockLEGOSet: LEGOSet = {
 
 describe('formatPriceWithCurrency', () => {
   it('should format price with currency and 2 decimal places', () => {
-    const result = formatPriceWithCurrency(mockLEGOSet);
+    const result = formatPriceWithCurrency(mockSet);
     expect(result).toBe('USD 59.99');
   });
 
   it('should format prices with no decimal places', () => {
-    const testSet = { ...mockLEGOSet, price: { currency: "EUR", amount: 100 } };
+    const testSet = { ...mockSet, price: { currency: "EUR", amount: 100 } };
     const result = formatPriceWithCurrency(testSet);
     expect(result).toBe('EUR 100.00');
   });
 
   it('should format prices with one decimal place', () => {
-    const testSet = { ...mockLEGOSet, price: { currency: "GBP", amount: 45.5 } };
+    const testSet = { ...mockSet, price: { currency: "GBP", amount: 45.5 } };
     const result = formatPriceWithCurrency(testSet);
     expect(result).toBe('GBP 45.50');
   });
   
   it('should format prices with more than two decimal places', () => {
-    const testSet = { ...mockLEGOSet, price: { currency: "JPY", amount: 59.1234 } };
+    const testSet = { ...mockSet, price: { currency: "JPY", amount: 59.1234 } };
     const result = formatPriceWithCurrency(testSet);
     expect(result).toBe('JPY 59.12');
   });

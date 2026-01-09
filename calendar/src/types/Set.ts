@@ -1,7 +1,7 @@
 /**
- * Represents a LEGO set with its details.
+ * Represents a set with its details.
  */
-export interface LEGOSet {
+export interface Set {
     /**
      * Unique identifier for the set.
      * Corresponding to the set id of.
@@ -19,7 +19,7 @@ export interface LEGOSet {
      */
     theme: string;
     /**
-     * Amount of LEGO bricks (pieces) in the set. Always a positive integer.
+     * Amount of bricks (pieces) in the set. Always a positive integer.
      * @example 576
      */
     pieces: number;
@@ -35,14 +35,14 @@ export interface LEGOSet {
     price: Price;
 
     /**
-     * URL path for the LEGO set.
+     * URL path for the set.
      * @example "tulip-bouquet-11501"
      */
     urlPath: string;
 }
 
 /**
- * Represents the price of a LEGO set.
+ * Represents the price of a set.
  */
 export interface Price {
     /**

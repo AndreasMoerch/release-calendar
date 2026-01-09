@@ -1,9 +1,9 @@
-import type { LEGOSet } from '../types/LEGOSet';
+import type { Set } from '../types/Set';
 import type { Locale } from '../types/Locale';
 import json from './sets.json';
 
 /**
- * List of LEGO sets with their details.
+ * List of  sets with their details.
  * @example
  * [
  *   {
@@ -18,7 +18,7 @@ import json from './sets.json';
  *   ...
  * ]
  */
-export const LEGOSets = (locale: Locale): LEGOSet[] =>
+export const AllSets = (locale: Locale): Set[] =>
     setsData.releases.map((set) => {
         const localeData = set.locales[locale];
         return {
@@ -33,8 +33,8 @@ export const LEGOSets = (locale: Locale): LEGOSet[] =>
     });
 
 /**
- * Internal type representing the structure of LEGO set data in JSON.
- * Contains option for multiple locales, which is mapped to a single locale in the exported LEGOSet type.
+ * Internal type representing the structure of  set data in JSON.
+ * Contains option for multiple locales, which is mapped to a single locale in the exported Set type.
  */
 const setsData: setsJson = json as setsJson;
 
