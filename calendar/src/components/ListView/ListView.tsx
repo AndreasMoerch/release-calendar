@@ -2,6 +2,7 @@ import type React from "react";
 import type { LEGOSet } from "../../types/LEGOSet";
 import { ListViewItem } from "../ListViewITem";
 import { groupByReleaseDateSorted } from "../../utils/setByReleaseDateGrouper";
+import { setReleasesAfterDateFilter } from "../../utils/setReleaseDateFilter";
 
 interface ListViewProps {
     /**
@@ -17,11 +18,15 @@ interface ListViewProps {
  */
 const ListView: React.FC<ListViewProps> = ({ sets }) => {
 
-    const setsByReleaseDate = groupByReleaseDateSorted(sets);
+    // Sets released in the future, then grouped by release date
+    // @todo: Add functionality to select different date filters when needed.
+    const futureSetsByReleaseDate = groupByReleaseDateSorted(
+        setReleasesAfterDateFilter(sets, new Date())
+    );
 
     return (
         <div>
-            {Object.entries(setsByReleaseDate)
+            {Object.entries(futureSetsByReleaseDate)
                 .map(([releaseDateString, sets]) => {
                     const releaseDate = new Date(releaseDateString);
                     return <ListViewItem key={releaseDateString} sets={sets} releaseDate={releaseDate} />
