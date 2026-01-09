@@ -1,8 +1,7 @@
 import type React from "react";
 import type { LEGOSet } from "../../types/LEGOSet";
 import { ListViewItem } from "../ListViewITem";
-import { groupByReleaseDateSorted } from "../../utils/setByReleaseDateGrouper";
-import { setReleasesAfterDateFilter } from "../../utils/setReleaseDateFilter";
+import { setReleasesAfterDateFilter, groupByReleaseDateSorted } from "../../utils/setsUtils";
 
 interface ListViewProps {
     /**

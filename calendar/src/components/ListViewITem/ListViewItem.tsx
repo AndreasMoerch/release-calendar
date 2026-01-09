@@ -1,6 +1,6 @@
 import type { LEGOSet } from "../../types/LEGOSet";
 import { formatDayName, formatMonthName, formatDayNumber } from "../../utils/dateFormatter";
-import { sortByTheme } from "../../utils/setSorter";
+import { sortByTheme } from "../../utils/setsUtils";
 import ListViewItemDetails from "./ListViewItemDetails";
 import './ListViewItem.css';
 
@@ -35,6 +35,7 @@ const ListViewItem: React.FC<ListViewItemProps> = ({ releaseDate, sets }) => {
             <div className="card-date">
                 <span className="card-date-number">{releaseDay} - {releaseMonthName} </span>
                 <span className="card-date-day">{releaseDayName}</span>
+                <span className="card-date-sets-count">{sets.length} set{sets.length > 1 ? 's' : ''}</span>
             </div>
 
             <div className="card-date-content">
