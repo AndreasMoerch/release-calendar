@@ -1313,6 +1313,150 @@
             "urlPath": "hogwarts-castle-sorting-hat-ceremony-76460"
         },
         {
+            "id": "76338",
+            "locales": {
+                "en-US": {
+                    "name": "Mech Battle: Spider-Man vs. Doc Ock",
+                    "theme": "Marvel",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 29.99
+                    }
+                }
+            },
+            "pieces": 315,
+            "releaseDate": "2026-01-01",
+            "urlPath": "mech-battle-spider-man-vs-doc-ock-76338"
+        },
+        {
+            "id": "76341",
+            "locales": {
+                "en-US": {
+                    "name": "Ravager Jumpsuit Groot",
+                    "theme": "Marvel",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 59.99
+                    }
+                }
+            },
+            "pieces": 604,
+            "releaseDate": "2026-01-01",
+            "urlPath": "ravager-jumpsuit-groot-76341"
+        },
+        {
+            "id": "76334",
+            "locales": {
+                "en-US": {
+                    "name": "Epic Battle: Spider-Man vs. Sandman",
+                    "theme": "Marvel",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 24.99
+                    }
+                }
+            },
+            "pieces": 201,
+            "releaseDate": "2026-01-01",
+            "urlPath": "epic-battle-spider-man-vs-sandman-76334"
+        },
+        {
+            "id": "76342",
+            "locales": {
+                "en-US": {
+                    "name": "Spider-Man vs. Mysterio: The Daily Bugle",
+                    "theme": "Marvel",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 99.99
+                    }
+                }
+            },
+            "pieces": 781,
+            "releaseDate": "2026-01-01",
+            "urlPath": "spider-man-vs-mysterio-the-daily-bugle-76342"
+        },
+        {
+            "id": "76344",
+            "locales": {
+                "en-US": {
+                    "name": "Iron Man Mark 3 Collectors' Edition",
+                    "theme": "Marvel",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 129.99
+                    }
+                }
+            },
+            "pieces": 1297,
+            "releaseDate": "2026-01-01",
+            "urlPath": "iron-man-mark-3-collectors-edition-76344"
+        },
+        {
+            "id": "76343",
+            "locales": {
+                "en-US": {
+                    "name": "Epic Battle: Hulkbuster vs. The Hulk",
+                    "theme": "Marvel",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 49.99
+                    }
+                }
+            },
+            "pieces": 413,
+            "releaseDate": "2026-01-01",
+            "urlPath": "epic-battle-hulkbuster-vs-the-hulk-76343"
+        },
+        {
+            "id": "76336",
+            "locales": {
+                "en-US": {
+                    "name": "Spider-Man Car vs. Venomized Wolverine",
+                    "theme": "Marvel",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 19.99
+                    }
+                }
+            },
+            "pieces": 134,
+            "releaseDate": "2026-01-01",
+            "urlPath": "spider-man-car-vs-venomized-wolverine-76336"
+        },
+        {
+            "id": "76335",
+            "locales": {
+                "en-US": {
+                    "name": "Spider-Man vs. Ghost Rider Motorcycle",
+                    "theme": "Marvel",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 9.99
+                    }
+                }
+            },
+            "pieces": 72,
+            "releaseDate": "2026-01-01",
+            "urlPath": "spider-man-vs-ghost-rider-motorcycle-76335"
+        },
+        {
+            "id": "76337",
+            "locales": {
+                "en-US": {
+                    "name": "Miles Morales Mech vs. Spider-Man 2099",
+                    "theme": "Marvel",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 14.99
+                    }
+                }
+            },
+            "pieces": 135,
+            "releaseDate": "2026-01-01",
+            "urlPath": "miles-morales-mech-vs-spider-man-2099-76337"
+        },
+        {
             "id": "76459",
             "locales": {
                 "en-US": {
