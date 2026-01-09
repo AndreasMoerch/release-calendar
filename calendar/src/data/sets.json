@@ -980,7 +980,7 @@
             "id": "80119",
             "locales": {
                 "en-US": {
-                    "name": "Galloping Horse Canvas ",
+                    "name": "Galloping Horse Canvas",
                     "theme": "Other",
                     "price": {
                         "currency": "USD",
@@ -991,6 +991,214 @@
             "pieces": 1650,
             "releaseDate": "2026-01-01",
             "urlPath": "galloping-horse-canvas-80119"
+        },
+        {
+            "id": "71858",
+            "locales": {
+                "en-US": {
+                    "name": "Four Weapons Blacksmith 15th Anniversary",
+                    "theme": "Ninjago",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 99.99
+                    }
+                }
+            },
+            "pieces": 1259,
+            "releaseDate": "2026-01-01",
+            "urlPath": "four-weapons-blacksmith-15th-anniversary-71858"
+        },
+        {
+            "id": "71866",
+            "locales": {
+                "en-US": {
+                    "name": "Ninja Character Display 15th Anniversary",
+                    "theme": "Ninjago",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 44.99
+                    }
+                }
+            },
+            "pieces": 447,
+            "releaseDate": "2026-01-01",
+            "urlPath": "ninja-character-display-15th-anniversary-71866"
+        },
+        {
+            "id": "71859",
+            "locales": {
+                "en-US": {
+                    "name": "The Dragon of Life",
+                    "theme": "Ninjago",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 109.99
+                    }
+                }
+            },
+            "pieces": 1050,
+            "releaseDate": "2026-01-01",
+            "urlPath": "the-dragon-of-life-71859"
+        },
+        {
+            "id": "71857",
+            "locales": {
+                "en-US": {
+                    "name": "Ninja Vehicle Tree House Battle",
+                    "theme": "Ninjago",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 79.99
+                    }
+                }
+            },
+            "pieces": 642,
+            "releaseDate": "2026-01-01",
+            "urlPath": "ninja-vehicle-tree-house-battle-71857"
+        },
+        {
+            "id": "71857",
+            "locales": {
+                "en-US": {
+                    "name": "Ninja Vehicle Tree House Battle",
+                    "theme": "Ninjago",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 79.99
+                    }
+                }
+            },
+            "pieces": 642,
+            "releaseDate": "2026-01-01",
+            "urlPath": "ninja-vehicle-tree-house-battle-71857"
+        },
+        {
+            "id": "71856",
+            "locales": {
+                "en-US": {
+                    "name": "Jay's Transforming Car",
+                    "theme": "Ninjago",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 54.99
+                    }
+                }
+            },
+            "pieces": 387,
+            "releaseDate": "2026-01-01",
+            "urlPath": "jays-transforming-car-71856"
+        },
+        {
+            "id": "71855",
+            "locales": {
+                "en-US": {
+                    "name": "Ninja Dragon Riyu's Battle",
+                    "theme": "Ninjago",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 44.99
+                    }
+                }
+            },
+            "pieces": 347,
+            "releaseDate": "2026-01-01",
+            "urlPath": "ninja-dragon-riyus-battle-71855"
+        },
+        {
+            "id": "71854",
+            "locales": {
+                "en-US": {
+                    "name": "Cole's Mission Mech & Dragon Zane",
+                    "theme": "Ninjago",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 34.99
+                    }
+                }
+            },
+            "pieces": 364,
+            "releaseDate": "2026-01-01",
+            "urlPath": "coles-mission-mech-dragon-zane-71854"
+        },
+        {
+            "id": "71851",
+            "locales": {
+                "en-US": {
+                    "name": "Kai's Dragon Mech Battle Pack",
+                    "theme": "Ninjago",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 9.99
+                    }
+                }
+            },
+            "pieces": 85,
+            "releaseDate": "2026-01-01",
+            "urlPath": "kais-dragon-mech-battle-pack-71851"
+        },
+        {
+            "id": "71850",
+            "locales": {
+                "en-US": {
+                    "name": "Lloyd vs. Earth Monster Spinner",
+                    "theme": "Ninjago",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 9.99
+                    }
+                }
+            },
+            "pieces": 52,
+            "releaseDate": "2026-01-01",
+            "urlPath": "lloyd-vs-earth-monster-spinner-71850"
+        },
+        {
+            "id": "71849",
+            "locales": {
+                "en-US": {
+                    "name": "Nya vs. Mutation Monster Spinner",
+                    "theme": "Ninjago",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 9.99
+                    }
+                }
+            },
+            "pieces": 49,
+            "releaseDate": "2026-01-01",
+            "urlPath": "nya-vs-mutation-monster-spinner-71849"
+        },
+        {
+            "id": "71857",
+            "locales": {
+                "en-US": {
+                    "name": "Ninja Vehicle Tree House Battle",
+                    "theme": "Ninjago",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 79.99
+                    }
+                }
+            },
+            "pieces": 642,
+            "releaseDate": "2026-01-01",
+            "urlPath": "ninja-vehicle-tree-house-battle-71857"
+        },
+        {
+            "id": "71861",
+            "locales": {
+                "en-US": {
+                    "name": "The Old Town 15th Anniversary",
+                    "theme": "Ninjago",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 299.99
+                    }
+                }
+            },
+            "pieces": 4851,
+            "releaseDate": "2026-01-01",
+            "urlPath": "the-old-town-15th-anniversary-71861"
         },
         {
             "id": "42226",
