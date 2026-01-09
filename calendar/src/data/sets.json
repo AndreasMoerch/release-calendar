@@ -1201,6 +1201,134 @@
             "urlPath": "the-old-town-15th-anniversary-71861"
         },
         {
+            "id": "76470",
+            "locales": {
+                "en-US": {
+                    "name": "Enchanted Flying Ford Anglia",
+                    "theme": "Harry Potter",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 79.99
+                    }
+                }
+            },
+            "pieces": 868,
+            "releaseDate": "2026-01-01",
+            "urlPath": "enchanted-flying-ford-anglia-76470"
+        },
+        {
+            "id": "76467",
+            "locales": {
+                "en-US": {
+                    "name": "Luna Lovegood's House",
+                    "theme": "Harry Potter",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 89.99
+                    }
+                }
+            },
+            "pieces": 764,
+            "releaseDate": "2026-01-01",
+            "urlPath": "luna-lovegoods-house-76467"
+        },
+        {
+            "id": "76466",
+            "locales": {
+                "en-US": {
+                    "name": "Sorcerer's Stone – Collectors' Edition",
+                    "theme": "Harry Potter",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 169.99
+                    }
+                }
+            },
+            "pieces": 1571,
+            "releaseDate": "2026-01-01",
+            "urlPath": "sorcerers-stone-collectors-edition-76466"
+        },
+        {
+            "id": "76464",
+            "locales": {
+                "en-US": {
+                    "name": "Cauldron: Secret Potions Classroom",
+                    "theme": "Harry Potter",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 59.99
+                    }
+                }
+            },
+            "pieces": 652,
+            "releaseDate": "2026-01-01",
+            "urlPath": "cauldron-secret-potions-classroom-76464"
+        },
+        {
+            "id": "76463",
+            "locales": {
+                "en-US": {
+                    "name": "Hogwarts Castle: Hospital Wing",
+                    "theme": "Harry Potter",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 99.99
+                    }
+                }
+            },
+            "pieces": 907,
+            "releaseDate": "2026-01-01",
+            "urlPath": "hogwarts-castle-hospital-wing-76463"
+        },
+        {
+            "id": "76461",
+            "locales": {
+                "en-US": {
+                    "name": "Cornish Pixie",
+                    "theme": "Harry Potter",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 99.99
+                    }
+                }
+            },
+            "pieces": 320,
+            "releaseDate": "2026-01-01",
+            "urlPath": "cornish-pixie-76461"
+        },
+        {
+            "id": "76460",
+            "locales": {
+                "en-US": {
+                    "name": "Hogwarts Castle: Sorting Hat Ceremony",
+                    "theme": "Harry Potter",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 14.99
+                    }
+                }
+            },
+            "pieces": 124,
+            "releaseDate": "2026-01-01",
+            "urlPath": "hogwarts-castle-sorting-hat-ceremony-76460"
+        },
+        {
+            "id": "76459",
+            "locales": {
+                "en-US": {
+                    "name": "Hagrid™ & Harry's Privet Drive Escape",
+                    "theme": "Harry Potter",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 19.99
+                    }
+                }
+            },
+            "pieces": 124,
+            "releaseDate": "2026-01-01",
+            "urlPath": "hogwarts-castle-sorting-hat-ceremony-76460"
+        },
+        {
             "id": "42226",
             "locales": {
                 "en-US": {
