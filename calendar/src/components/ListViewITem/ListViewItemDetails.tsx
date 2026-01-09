@@ -1,6 +1,6 @@
 import type { LEGOSet } from "../../types/LEGOSet";
 import { formatPriceWithCurrency } from "../../utils/priceFormatter";
-import { generateUrlForSet } from "../../utils/setUrlGenerator";
+import { generateUrlForSet } from "../../utils/setUtils";
 import { FaExternalLinkAlt } from "react-icons/fa";
 import './ListViewItem.css';
 

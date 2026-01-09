@@ -1,5 +1,5 @@
 import type { LEGOSet } from "../types/LEGOSet";
-import { groupByReleaseDateSorted, setReleasesAfterDateFilter, sortByTheme } from './setsUtils';
+import { generateUrlForSet, groupByReleaseDateSorted, setReleasesAfterDateFilter, sortByTheme } from './setUtils';
 
 // Mock LEGO set data for testing
 const mockLEGOSet: LEGOSet = {
@@ -84,3 +84,10 @@ describe('groupByReleaseDateSorted', () => {
         expect(result[new Date('2026-02-01').toDateString()]).toHaveLength(2);
     });
 });
+
+describe('generateUrlForSet', () => {
+  it('should generate the correct URL for a LEGO set', () => {
+    const result = generateUrlForSet(mockLEGOSet);
+    expect(result).toBe('https://www.lego.com/en-us/product/test-set-10001');
+  });
+}); 

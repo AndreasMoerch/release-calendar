@@ -1,6 +1,6 @@
 import type { LEGOSet } from "../../types/LEGOSet";
 import { formatDayName, formatMonthName, formatDayNumber } from "../../utils/dateFormatter";
-import { sortByTheme } from "../../utils/setsUtils";
+import { sortByTheme } from "../../utils/setUtils";
 import ListViewItemDetails from "./ListViewItemDetails";
 import './ListViewItem.css';
 

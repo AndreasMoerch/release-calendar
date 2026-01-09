@@ -1,7 +1,7 @@
 import type { LEGOSet } from "../types/LEGOSet";
 
 /**
- * Utility functions for a list of LEGO sets.
+ * Utility functions for a single or a list of LEGO sets.
  * 
  * This file exports helper functions related to LEGO set filtering and sorting.
  */
@@ -48,3 +48,16 @@ export const groupByReleaseDateSorted = (sets: LEGOSet[]): Record<string, LEGOSe
             acc[releaseDate.toDateString()].push(set);
             return acc;
         }, {} as Record<string, LEGOSet[]>)
+
+/**
+ * Generates a fully qualified URL for a given LEGO set.
+ * @param set - non-null LEGO set.
+ * @returns the URL string for the LEGO set.
+ * @example "https://www.lego.com/en-us/product/test-set-10001"
+ * @todo Future implementation should support localization.
+ */
+export const generateUrlForSet = (set: LEGOSet): string => {
+    // Sets are generated via the us-en locale and appeded with set number (id). 
+    // This is true even for other locales, e.g. da-dk.
+    return `https://www.lego.com/en-us/product/${set.urlPath}`;
+}
