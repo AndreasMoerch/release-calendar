@@ -1,6 +1,6 @@
 import type React from "react";
 import type { Set } from "../../types/Set";
-import { ListViewItem } from "../ListViewITem";
+import { ListViewItem } from "../ListViewItem";
 import { setReleasesAfterDateFilter, groupByReleaseDateSorted } from "../../utils/setUtils";
 
 interface ListViewProps {
