@@ -1313,6 +1313,22 @@
             "urlPath": "hogwarts-castle-sorting-hat-ceremony-76460"
         },
         {
+            "id": "76459",
+            "locales": {
+                "en-US": {
+                    "name": "Hagrid & Harry's Privet Drive Escape",
+                    "theme": "Harry Potter",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 19.99
+                    }
+                }
+            },
+            "pieces": 124,
+            "releaseDate": "2026-01-01",
+            "urlPath": "hogwarts-castle-sorting-hat-ceremony-76460"
+        },
+        {
             "id": "76338",
             "locales": {
                 "en-US": {
@@ -1457,20 +1473,132 @@
             "urlPath": "miles-morales-mech-vs-spider-man-2099-76337"
         },
         {
-            "id": "76459",
+            "id": "21590",
             "locales": {
                 "en-US": {
-                    "name": "Hagrid™ & Harry's Privet Drive Escape",
-                    "theme": "Harry Potter",
+                    "name": "Wither Battle",
+                    "theme": "Minecraft",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 64.99
+                    }
+                }
+            },
+            "pieces": 494,
+            "releaseDate": "2026-01-01",
+            "urlPath": "wither-battle-21590"
+        },
+        {
+            "id": "21589",
+            "locales": {
+                "en-US": {
+                    "name": "Mini Biomes",
+                    "theme": "Minecraft",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 59.99
+                    }
+                }
+            },
+            "pieces": 797,
+            "releaseDate": "2026-01-01",
+            "urlPath": "mini-biomes-21589"
+        },
+        {
+            "id": "21588",
+            "locales": {
+                "en-US": {
+                    "name": "The Fox",
+                    "theme": "Minecraft",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 39.99
+                    }
+                }
+            },
+            "pieces": 497,
+            "releaseDate": "2026-01-01",
+            "urlPath": "the-fox-21588"
+        },
+        {
+            "id": "21587",
+            "locales": {
+                "en-US": {
+                    "name": "Zombie Dungeon",
+                    "theme": "Minecraft",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 29.99
+                    }
+                }
+            },
+            "pieces": 284,
+            "releaseDate": "2026-01-01",
+            "urlPath": "zombie-dungeon-21587"
+        },
+        {
+            "id": "21586",
+            "locales": {
+                "en-US": {
+                    "name": "The Pale Garden",
+                    "theme": "Minecraft",
                     "price": {
                         "currency": "USD",
                         "amount": 19.99
                     }
                 }
             },
-            "pieces": 124,
+            "pieces": 243,
             "releaseDate": "2026-01-01",
-            "urlPath": "hogwarts-castle-sorting-hat-ceremony-76460"
+            "urlPath": "the-pale-garden-21586"
+        },
+        {
+            "id": "21585",
+            "locales": {
+                "en-US": {
+                    "name": "Chicken Farm",
+                    "theme": "Minecraft",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 19.99
+                    }
+                }
+            },
+            "pieces": 233,
+            "releaseDate": "2026-01-01",
+            "urlPath": "chicken-farm-21585"
+        },
+        {
+            "id": "21584",
+            "locales": {
+                "en-US": {
+                    "name": "Nether & End Portal Journey",
+                    "theme": "Minecraft",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 14.99
+                    }
+                }
+            },
+            "pieces": 192,
+            "releaseDate": "2026-01-01",
+            "urlPath": "nether-end-portal-journey-21584"
+        },
+        {
+            "id": "21583",
+            "locales": {
+                "en-US": {
+                    "name": "Steve's Taiga Adventure",
+                    "theme": "Minecraft",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 9.99
+                    }
+                }
+            },
+            "pieces": 79,
+            "releaseDate": "2026-01-01",
+            "urlPath": "steves-taiga-adventure-21583"
         },
         {
             "id": "42226",
