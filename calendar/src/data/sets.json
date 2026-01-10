@@ -1505,6 +1505,54 @@
             "urlPath": "miles-morales-mech-vs-spider-man-2099-76337"
         },
         {
+            "id": "11208",
+            "locales": {
+                "en-US": {
+                    "name": "Team Spidey Pirate Ship",
+                    "theme": "Marvel",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 49.99
+                    }
+                }
+            },
+            "pieces": 201,
+            "releaseDate": "2026-01-01",
+            "urlPath": "team-spidey-pirate-ship-11208"
+        },
+        {
+            "id": "11207",
+            "locales": {
+                "en-US": {
+                    "name": "Spidey: Underwater Vehicles",
+                    "theme": "Marvel",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 34.99
+                    }
+                }
+            },
+            "pieces": 154,
+            "releaseDate": "2026-01-01",
+            "urlPath": "spidey-underwater-vehicles-11207"
+        },
+        {
+            "id": "11206",
+            "locales": {
+                "en-US": {
+                    "name": "Spidey on his Motorcycle vs. Rhino",
+                    "theme": "Marvel",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 9.99
+                    }
+                }
+            },
+            "pieces": 61,
+            "releaseDate": "2026-01-01",
+            "urlPath": "spidey-on-his-motorcycle-vs-rhino-11206"
+        },
+        {
             "id": "21590",
             "locales": {
                 "en-US": {
