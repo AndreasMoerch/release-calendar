@@ -1952,6 +1952,102 @@
             "releaseDate": "2026-01-01",
             "urlPath": "tiger-shark-tank-71515"
         },
+          {
+            "id": "42223",
+            "locales": {
+                "en-US": {
+                    "name": "1966 Ford GT40 MKII Race Car",
+                    "theme": "Technic",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 74.99
+                    }
+                }
+            },
+            "pieces": 793,
+            "releaseDate": "2026-01-01",
+            "urlPath": "1966-ford-gt40-mkii-race-car-42223"
+        },
+        {
+            "id": "42222",
+            "locales": {
+                "en-US": {
+                    "name": "Bugatti Chiron Pur Sport Hypercar",
+                    "theme": "Technic",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 64.99
+                    }
+                }
+            },
+            "pieces": 771,
+            "releaseDate": "2026-01-01",
+            "urlPath": "bugatti-chiron-pur-sport-hypercar-42222"
+        },
+        {
+            "id": "42221",
+            "locales": {
+                "en-US": {
+                    "name": "NASA Artemis Space Launch System Rocket",
+                    "theme": "Technic",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 59.99
+                    }
+                }
+            },
+            "pieces": 632,
+            "releaseDate": "2026-01-01",
+            "urlPath": "nasa-artemis-space-launch-system-rocket-42221"
+        },
+        {
+            "id": "42220",
+            "locales": {
+                "en-US": {
+                    "name": "Monster Jam Sparkle Smash Pull-Back",
+                    "theme": "Technic",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 34.99
+                    }
+                }
+            },
+            "pieces": 243,
+            "releaseDate": "2026-01-01",
+            "urlPath": "monster-jam-sparkle-smash-pull-back-42220"
+        },
+        {
+            "id": "42219",
+            "locales": {
+                "en-US": {
+                    "name": "Monster Jam Grave Digger Fire and Ice",
+                    "theme": "Technic",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 34.99
+                    }
+                }
+            },
+            "pieces": 263,
+            "releaseDate": "2026-01-01",
+            "urlPath": "monster-jam-grave-digger-fire-and-ice-42219"
+        },
+        {
+            "id": "42218",
+            "locales": {
+                "en-US": {
+                    "name": "John Deere 1470H Wheeled Harvester",
+                    "theme": "Technic",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 9.99
+                    }
+                }
+            },
+            "pieces": 117,
+            "releaseDate": "2026-01-01",
+            "urlPath": "john-deere-1470h-wheeled-harvester-42218"
+        },
         {
             "id": "42226",
             "locales": {
