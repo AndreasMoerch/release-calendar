@@ -2641,6 +2641,22 @@
             "urlPath": "speed-champions-77258-77258"
         },
         {
+            "id": "75423",
+            "locales": {
+                "en-US": {
+                    "name": "SMART Play: Luke's Red Five X-Wing™",
+                    "theme": "Star Wars",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 89.99
+                    }
+                }
+            },
+            "pieces": 581,
+            "releaseDate": "2026-03-01",
+            "urlPath": "smart-play-lukes-red-five-x-wing-75423"
+        },
+        {
             "id": "75427",
             "locales": {
                 "en-US": {
