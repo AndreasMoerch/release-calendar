@@ -2017,6 +2017,22 @@
             "urlPath": "tiger-shark-tank-71515"
         },
         {
+            "id": "42224",
+            "locales": {
+                "en-US": {
+                    "name": "Porsche 911 GT3 R REXY AO Racing Car",
+                    "theme": "Technic",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 149.99
+                    }
+                }
+            },
+            "pieces": 1313,
+            "releaseDate": "2026-01-01",
+            "urlPath": "porsche-911-gt3-r-rexy-ao-racing-car-42224"
+        },
+        {
             "id": "42223",
             "locales": {
                 "en-US": {
