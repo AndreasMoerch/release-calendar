@@ -2337,6 +2337,38 @@
             "urlPath": "3-in-1-modern-family-house-with-figures-10470"
         },
         {
+            "id": "77117",
+            "locales": {
+                "en-US": {
+                    "name": "Sonic: Speedster Lightning",
+                    "theme": "LEGO Sonic the Hedgehog",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 9.99
+                    }
+                }
+            },
+            "pieces": 126,
+            "releaseDate": "2026-01-01",
+            "urlPath": "sonic-speedster-lightning-77117"
+        },
+        {
+            "id": "77118",
+            "locales": {
+                "en-US": {
+                    "name": "Silver's Car vs. Knuckles' Monster Truck",
+                    "theme": "LEGO Sonic the Hedgehog",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 39.99
+                    }
+                }
+            },
+            "pieces": 378,
+            "releaseDate": "2026-01-01",
+            "urlPath": "silvers-car-vs-knuckles-monster-truck-77118"
+        },
+        {
             "id": "11215",
             "locales": {
                 "en-US": {
