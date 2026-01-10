@@ -1601,6 +1601,278 @@
             "urlPath": "steves-taiga-adventure-21583"
         },
         {
+            "id": "42689",
+            "locales": {
+                "en-US": {
+                    "name": "Heartlake City Friends Club House",
+                    "theme": "Friends",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 89.99
+                    }
+                }
+            },
+            "pieces": 794,
+            "releaseDate": "2026-01-01",
+            "urlPath": "heartlake-city-friends-club-house-42689"
+        },
+        {
+            "id": "42688",
+            "locales": {
+                "en-US": {
+                    "name": "Horse Stable and Riding Academy",
+                    "theme": "Friends",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 89.99
+                    }
+                }
+            },
+            "pieces": 735,
+            "releaseDate": "2026-01-01",
+            "urlPath": "horse-stable-and-riding-academy-42688"
+        },
+        {
+            "id": "42687",
+            "locales": {
+                "en-US": {
+                    "name": "Liann's Family House",
+                    "theme": "Friends",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 69.99
+                    }
+                }
+            },
+            "pieces": 946,
+            "releaseDate": "2026-01-01",
+            "urlPath": "lianns-family-house-42687"
+        },
+        {
+            "id": "42686",
+            "locales": {
+                "en-US": {
+                    "name": "Fun Indoor Playground",
+                    "theme": "Friends",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 59.99
+                    }
+                }
+            },
+            "pieces": 668,
+            "releaseDate": "2026-01-01",
+            "urlPath": "fun-indoor-playground-42686"
+        },
+        {
+            "id": "42685",
+            "locales": {
+                "en-US": {
+                    "name": "Heartlake City Fashion Show",
+                    "theme": "Friends",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 49.99
+                    }
+                }
+            },
+            "pieces": 410,
+            "releaseDate": "2026-01-01",
+            "urlPath": "heartlake-city-fashion-show-42685"
+        },
+        {
+            "id": "42684",
+            "locales": {
+                "en-US": {
+                    "name": "Unicorn Dream Café",
+                    "theme": "Friends",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 39.99
+                    }
+                }
+            },
+            "pieces": 475,
+            "releaseDate": "2026-01-01",
+            "urlPath": "unicorn-dream-cafe-42684"
+        },
+        {
+            "id": "42681",
+            "locales": {
+                "en-US": {
+                    "name": "Axolotl Adventure Boat",
+                    "theme": "Friends",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 9.99
+                    }
+                }
+            },
+            "pieces": 95,
+            "releaseDate": "2026-01-01",
+            "urlPath": "axolotl-adventure-boat-42681"
+        },
+        {
+            "id": "42680",
+            "locales": {
+                "en-US": {
+                    "name": "Heartlake City Convenience Store",
+                    "theme": "Friends",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 19.99
+                    }
+                }
+            },
+            "pieces": 176,
+            "releaseDate": "2026-01-01",
+            "urlPath": "heartlake-city-convenience-store-42680"
+        },
+        {
+            "id": "42679",
+            "locales": {
+                "en-US": {
+                    "name": "Heartlake City Bunny Hotel",
+                    "theme": "Friends",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 19.99
+                    }
+                }
+            },
+            "pieces": 161,
+            "releaseDate": "2026-01-01",
+            "urlPath": "heartlake-city-bunny-hotel-42679"
+        },
+        {
+            "id": "42678",
+            "locales": {
+                "en-US": {
+                    "name": "Pet Accessories Van",
+                    "theme": "Friends",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 19.99
+                    }
+                }
+            },
+            "pieces": 237,
+            "releaseDate": "2026-01-01",
+            "urlPath": "pet-accessories-van-42678"
+        },
+        {
+            "id": "42677",
+            "locales": {
+                "en-US": {
+                    "name": "Dog Treats Bakery",
+                    "theme": "Friends",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 29.99
+                    }
+                }
+            },
+            "pieces": 278,
+            "releaseDate": "2026-01-01",
+            "urlPath": "dog-treats-bakery-42677"
+        },
+        {
+            "id": "42675",
+            "locales": {
+                "en-US": {
+                    "name": "Unicorn Cake Delivery Car",
+                    "theme": "Friends",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 9.99
+                    }
+                }
+            },
+            "pieces": 67,
+            "releaseDate": "2026-01-01",
+            "urlPath": "unicorn-cake-delivery-car-42675"
+        },
+        {
+            "id": "42692",
+            "locales": {
+                "en-US": {
+                    "name": "Ice Cream & Balloon Stand",
+                    "theme": "Friends",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 9.99
+                    }
+                }
+            },
+            "pieces": 107,
+            "releaseDate": "2026-01-01",
+            "urlPath": "ice-cream-balloon-stand-42692"
+        },
+        {
+            "id": "42695",
+            "locales": {
+                "en-US": {
+                    "name": "Horse & Baby Foal Trailer",
+                    "theme": "Friends",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 29.99
+                    }
+                }
+            },
+            "pieces": 279,
+            "releaseDate": "2026-01-01",
+            "urlPath": "horse-baby-foal-trailer-42695"
+        },
+        {
+            "id": "42696",
+            "locales": {
+                "en-US": {
+                    "name": "Animal Vet Clinic",
+                    "theme": "Friends",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 29.99
+                    }
+                }
+            },
+            "pieces": 141,
+            "releaseDate": "2026-01-01",
+            "urlPath": "animal-vet-clinic-42696"
+        },
+        {
+            "id": "42699",
+            "locales": {
+                "en-US": {
+                    "name": "Beach House with Seals",
+                    "theme": "Friends",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 49.99
+                    }
+                }
+            },
+            "pieces": 400,
+            "releaseDate": "2026-01-01",
+            "urlPath": "beach-house-with-seals-42699"
+        },
+        {
+            "id": "42691",
+            "locales": {
+                "en-US": {
+                    "name": "Garden Restaurant",
+                    "theme": "Friends",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 129.99
+                    }
+                }
+            },
+            "pieces": 1465,
+            "releaseDate": "2026-01-01",
+            "urlPath": "garden-restaurant-42691"
+        },
+        {
             "id": "42226",
             "locales": {
                 "en-US": {
