@@ -2193,6 +2193,118 @@
             "urlPath": "elsas-ice-castle-snow-ride-adventure-43281"
         },
         {
+            "id": "10477",
+            "locales": {
+                "en-US": {
+                    "name": "3 in 1 Creative Cute Pets",
+                    "theme": "DUPLO",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 9.99
+                    }
+                }
+            },
+            "pieces": 24,
+            "releaseDate": "2026-01-01",
+            "urlPath": "3-in-1-creative-cute-pets-10477"
+        },
+        {
+            "id": "10476",
+            "locales": {
+                "en-US": {
+                    "name": "3 in 1 Construction Site and Vehicles",
+                    "theme": "DUPLO",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 89.99
+                    }
+                }
+            },
+            "pieces": 84,
+            "releaseDate": "2026-01-01",
+            "urlPath": "3-in-1-construction-site-and-vehicles-10476"
+        },
+        {
+            "id": "10475",
+            "locales": {
+                "en-US": {
+                    "name": "3 in 1 Construction Vehicles",
+                    "theme": "DUPLO",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 24.99
+                    }
+                }
+            },
+            "pieces": 22,
+            "releaseDate": "2026-01-01",
+            "urlPath": "3-in-1-construction-vehicles-10475"
+        },
+        {
+            "id": "10474",
+            "locales": {
+                "en-US": {
+                    "name": "Creative Vehicles",
+                    "theme": "DUPLO",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 19.99
+                    }
+                }
+            },
+            "pieces": 42,
+            "releaseDate": "2026-01-01",
+            "urlPath": "creative-vehicles-10474"
+        },
+        {
+            "id": "10473",
+            "locales": {
+                "en-US": {
+                    "name": "Fire Truck with Hose and Firefighter",
+                    "theme": "DUPLO",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 29.99
+                    }
+                }
+            },
+            "pieces": 28,
+            "releaseDate": "2026-01-01",
+            "urlPath": "fire-truck-with-hose-and-firefighter-10473"
+        },
+        {
+            "id": "10471",
+            "locales": {
+                "en-US": {
+                    "name": "Blue Police Motorcycle",
+                    "theme": "DUPLO",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 9.99
+                    }
+                }
+            },
+            "pieces": 11,
+            "releaseDate": "2026-01-01",
+            "urlPath": "blue-police-motorcycle-10471"
+        },
+        {
+            "id": "10470",
+            "locales": {
+                "en-US": {
+                    "name": "3 in 1 Modern Family House with Figures",
+                    "theme": "DUPLO",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 79.99
+                    }
+                }
+            },
+            "pieces": 166,
+            "releaseDate": "2026-01-01",
+            "urlPath": "3-in-1-modern-family-house-with-figures-10470"
+        },
+        {
             "id": "42226",
             "locales": {
                 "en-US": {
