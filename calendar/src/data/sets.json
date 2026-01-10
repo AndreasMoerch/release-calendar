@@ -2447,6 +2447,278 @@
             "pieces": 346,
             "releaseDate": "2026-03-01",
             "urlPath": "sallys-flowerpot-43288"
+        },
+        {
+            "id": "60493",
+            "locales": {
+                "en-US": {
+                    "name": "F1 Display Truck with Audi F1 Race Car",
+                    "theme": "City",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 44.99
+                    }
+                }
+            },
+            "pieces": 508,
+            "releaseDate": "2026-03-01",
+            "urlPath": "f1-display-truck-with-audi-f1-race-car-60493"
+        },
+        {
+            "id": "60508",
+            "locales": {
+                "en-US": {
+                    "name": "Police Train Heist",
+                    "theme": "City",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 199.99
+                    }
+                }
+            },
+            "pieces": 1313,
+            "releaseDate": "2026-03-01",
+            "urlPath": "police-train-heist-60508"
+        },
+        {
+            "id": "76333",
+            "locales": {
+                "en-US": {
+                    "name": "Batman & Robin Batmobile",
+                    "theme": "Batman",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 29.99
+                    }
+                }
+            },
+            "pieces": 272,
+            "releaseDate": "2026-03-01",
+            "urlPath": "batman-robin-batmobile-76333"
+        },
+        {
+            "id": "76332",
+            "locales": {
+                "en-US": {
+                    "name": "The Batman Batmobile",
+                    "theme": "Batman",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 29.99
+                    }
+                }
+            },
+            "pieces": 330,
+            "releaseDate": "2026-03-01",
+            "urlPath": "the-batman-batmobile-76332"
+        },
+        {
+            "id": "76331",
+            "locales": {
+                "en-US": {
+                    "name": "Batman v Superman Batmobile",
+                    "theme": "Batman",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 29.99
+                    }
+                }
+            },
+            "pieces": 220,
+            "releaseDate": "2026-03-01",
+            "urlPath": "batman-v-superman-batmobile-76331"
+        },
+        {
+            "id": "76330",
+            "locales": {
+                "en-US": {
+                    "name": "Batman Logo",
+                    "theme": "Batman",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 79.99
+                    }
+                }
+            },
+            "pieces": 678,
+            "releaseDate": "2026-03-01",
+            "urlPath": "batman-logo-76330"
+        },
+        {
+            "id": "10465",
+            "locales": {
+                "en-US": {
+                    "name": "Mickey Mouse Clubhouse with Minnie & Pluto",
+                    "theme": "DUPLO",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 49.99
+                    }
+                }
+            },
+            "pieces": 87,
+            "releaseDate": "2026-03-01",
+            "urlPath": "mickey-mouse-clubhouse-with-minnie-pluto-10465"
+        },
+        {
+            "id": "43290",
+            "locales": {
+                "en-US": {
+                    "name": "Kevin & Dug",
+                    "theme": "Disney",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 59.99
+                    }
+                }
+            },
+            "pieces": 628,
+            "releaseDate": "2026-03-01",
+            "urlPath": "kevin-dug-43290"
+        },
+        {
+            "id": "10463",
+            "locales": {
+                "en-US": {
+                    "name": "Dinosaur Spidey-Rex vs. Green Goblin",
+                    "theme": "Disney",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 19.99
+                    }
+                }
+            },
+            "pieces": 25,
+            "releaseDate": "2026-03-01",
+            "urlPath": "dinosaur-spidey-rex-vs-green-goblin-10463"
+        },
+        {
+            "id": "43020",
+            "locales": {
+                "en-US": {
+                    "name": "FIFA World Cup™ Official Trophy",
+                    "theme": "LEGO Editions Sets",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 199.99
+                    }
+                }
+            },
+            "pieces": 2842,
+            "releaseDate": "2026-03-01",
+            "urlPath": "fifa-world-cup-official-trophy-43020"
+        },
+        {
+            "id": "71860",
+            "locales": {
+                "en-US": {
+                    "name": "Lloyd's Titan Mech 15th Anniversary",
+                    "theme": "Ninjago",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 129.99
+                    }
+                }
+            },
+            "pieces": 1293,
+            "releaseDate": "2026-03-01",
+            "urlPath": "lloyds-titan-mech-15th-anniversary-71860"
+        },
+        {
+            "id": "77258",
+            "locales": {
+                "en-US": {
+                    "name": "F1 ACADEMY LEGO Race Car",
+                    "theme": "Speed Champions",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 27.99
+                    }
+                }
+            },
+            "pieces": 201,
+            "releaseDate": "2026-03-01",
+            "urlPath": "speed-champions-77258-77258"
+        },
+        {
+            "id": "75427",
+            "locales": {
+                "en-US": {
+                    "name": "SMART Play: Throne Room Duel & A-Wing",
+                    "theme": "Star Wars",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 159.99
+                    }
+                }
+            },
+            "pieces": 962,
+            "releaseDate": "2026-03-01",
+            "urlPath": "smart-play-throne-room-duel-a-wing-75427"
+        },
+        {
+            "id": "75421",
+            "locales": {
+                "en-US": {
+                    "name": "SMART Play: Darth Vader's TIE Fighter",
+                    "theme": "Star Wars",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 69.99
+                    }
+                }
+            },
+            "pieces": 473,
+            "releaseDate": "2026-03-01",
+            "urlPath": "smart-play-darth-vaders-tie-fighter-75421"
+        },
+        {
+            "id": "42227",
+            "locales": {
+                "en-US": {
+                    "name": "Jeep Wrangler Rubicon SUV",
+                    "theme": "Technic",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 64.99
+                    }
+                }
+            },
+            "pieces": 723,
+            "releaseDate": "2026-03-01",
+            "urlPath": "jeep-wrangler-rubicon-suv-42227"
+        },
+        {
+            "id": "42226",
+            "locales": {
+                "en-US": {
+                    "name": "BMW M4 GT3 EVO Race Car",
+                    "theme": "Technic",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 64.99
+                    }
+                }
+            },
+            "pieces": 747,
+            "releaseDate": "2026-03-01",
+            "urlPath": "bmw-m4-gt3-evo-race-car-42226"
+        },
+        {
+            "id": "42225",
+            "locales": {
+                "en-US": {
+                    "name": "Yellow Motorcycle",
+                    "theme": "Technic",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 9.99
+                    }
+                }
+            },
+            "pieces": 151,
+            "releaseDate": "2026-03-01",
+            "urlPath": "yellow-motorcycle-42225"
         }
     ]
 }
