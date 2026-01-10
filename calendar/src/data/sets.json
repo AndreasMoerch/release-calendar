@@ -1873,6 +1873,86 @@
             "urlPath": "garden-restaurant-42691"
         },
         {
+            "id": "71508",
+            "locales": {
+                "en-US": {
+                    "name": "Fox Guardian Mech",
+                    "theme": "LEGO DREAMZzz",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 79.99
+                    }
+                }
+            },
+            "pieces": 883,
+            "releaseDate": "2026-01-01",
+            "urlPath": "fox-guardian-mech-71508"
+        },
+        {
+            "id": "71512",
+            "locales": {
+                "en-US": {
+                    "name": "Crocodile Submarine",
+                    "theme": "LEGO DREAMZzz",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 69.99
+                    }
+                }
+            },
+            "pieces": 1107,
+            "releaseDate": "2026-01-01",
+            "urlPath": "crocodile-submarine-71512"
+        },
+        {
+            "id": "71513",
+            "locales": {
+                "en-US": {
+                    "name": "Nightmare Scorpion Digger",
+                    "theme": "LEGO DREAMZzz",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 49.99
+                    }
+                }
+            },
+            "pieces": 505,
+            "releaseDate": "2026-01-01",
+            "urlPath": "nightmare-scorpion-digger-71513"
+        },
+        {
+            "id": "71514",
+            "locales": {
+                "en-US": {
+                    "name": "Dino Jet",
+                    "theme": "LEGO DREAMZzz",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 99.99
+                    }
+                }
+            },
+            "pieces": 1007,
+            "releaseDate": "2026-01-01",
+            "urlPath": "dino-jet-71514"
+        },
+        {
+            "id": "71515",
+            "locales": {
+                "en-US": {
+                    "name": "Tiger Shark Tank",
+                    "theme": "LEGO DREAMZzz",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 139.99
+                    }
+                }
+            },
+            "pieces": 1548,
+            "releaseDate": "2026-01-01",
+            "urlPath": "tiger-shark-tank-71515"
+        },
+        {
             "id": "42226",
             "locales": {
                 "en-US": {
