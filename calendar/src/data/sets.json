@@ -2305,6 +2305,22 @@
             "urlPath": "3-in-1-modern-family-house-with-figures-10470"
         },
         {
+            "id": "11215",
+            "locales": {
+                "en-US": {
+                    "name": "Gabby's Brick-Built Cat Friends",
+                    "theme": "LEGO Gabby's Dollhouse",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 44.99
+                    }
+                }
+            },
+            "pieces": 324,
+            "releaseDate": "2026-01-01",
+            "urlPath": "gabbys-brick-built-cat-friends-11215"
+        },
+        {
             "id": "42226",
             "locales": {
                 "en-US": {
