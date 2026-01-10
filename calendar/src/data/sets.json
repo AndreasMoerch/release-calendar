@@ -1089,22 +1089,6 @@
             "urlPath": "ninja-vehicle-tree-house-battle-71857"
         },
         {
-            "id": "71857",
-            "locales": {
-                "en-US": {
-                    "name": "Ninja Vehicle Tree House Battle",
-                    "theme": "Ninjago",
-                    "price": {
-                        "currency": "USD",
-                        "amount": 79.99
-                    }
-                }
-            },
-            "pieces": 642,
-            "releaseDate": "2026-01-01",
-            "urlPath": "ninja-vehicle-tree-house-battle-71857"
-        },
-        {
             "id": "71856",
             "locales": {
                 "en-US": {
@@ -1135,6 +1119,22 @@
             "pieces": 347,
             "releaseDate": "2026-01-01",
             "urlPath": "ninja-dragon-riyus-battle-71855"
+        },
+        {
+            "id": "71853",
+            "locales": {
+                "en-US": {
+                    "name": "Jay's Dragon Mech Fight",
+                    "theme": "Ninjago",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 19.99
+                    }
+                }
+            },
+            "pieces": 107,
+            "releaseDate": "2026-01-01",
+            "urlPath": "jays-dragon-mech-fight-71853"
         },
         {
             "id": "71854",
@@ -1199,22 +1199,6 @@
             "pieces": 49,
             "releaseDate": "2026-01-01",
             "urlPath": "nya-vs-mutation-monster-spinner-71849"
-        },
-        {
-            "id": "71857",
-            "locales": {
-                "en-US": {
-                    "name": "Ninja Vehicle Tree House Battle",
-                    "theme": "Ninjago",
-                    "price": {
-                        "currency": "USD",
-                        "amount": 79.99
-                    }
-                }
-            },
-            "pieces": 642,
-            "releaseDate": "2026-01-01",
-            "urlPath": "ninja-vehicle-tree-house-battle-71857"
         },
         {
             "id": "71861",
