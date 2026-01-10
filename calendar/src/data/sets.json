@@ -2401,6 +2401,22 @@
             "urlPath": "gabbys-brick-built-cat-friends-11215"
         },
         {
+            "id": "40957",
+            "locales": {
+                "en-US": {
+                    "name": "Spring Wreath",
+                    "theme": "Other",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 39.99
+                    }
+                }
+            },
+            "pieces": 747,
+            "releaseDate": "2026-03-01",
+            "urlPath": "spring-wreath-40957"
+        },
+        {
             "id": "42226",
             "locales": {
                 "en-US": {
