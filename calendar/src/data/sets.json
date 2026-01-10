@@ -16,7 +16,7 @@
             "releaseDate": "2026-01-01",
             "urlPath": "stranger-things-the-creel-house-11370"
         },
-          {
+        {
             "id": "40879",
             "locales": {
                 "en-US": {
@@ -31,6 +31,22 @@
             "pieces": 584,
             "releaseDate": "2026-01-01",
             "urlPath": "eleven-max-demogorgon-and-holly-figures-40879"
+        },
+        {
+            "id": "40922",
+            "locales": {
+                "en-US": {
+                    "name": "Lilo & Stitch: Angel",
+                    "theme": "BrickHeadz",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 12.99
+                    }
+                }
+            },
+            "pieces": 133,
+            "releaseDate": "2026-01-01",
+            "urlPath": "lilo-stitch-angel-40922"
         },
         {
             "id": "11371",
@@ -1968,7 +1984,7 @@
             "releaseDate": "2026-01-01",
             "urlPath": "tiger-shark-tank-71515"
         },
-          {
+        {
             "id": "42223",
             "locales": {
                 "en-US": {
@@ -2063,6 +2079,118 @@
             "pieces": 117,
             "releaseDate": "2026-01-01",
             "urlPath": "john-deere-1470h-wheeled-harvester-42218"
+        },
+        {
+            "id": "43303",
+            "locales": {
+                "en-US": {
+                    "name": "Mini Jasmine & Rapunzel",
+                    "theme": "Disney",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 9.99
+                    }
+                }
+            },
+            "pieces": 59,
+            "releaseDate": "2026-01-01",
+            "urlPath": "mini-jasmine-rapunzel-43303"
+        },
+        {
+            "id": "43291",
+            "locales": {
+                "en-US": {
+                    "name": "Mini Belle & Tiana with Castle",
+                    "theme": "Disney",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 39.99
+                    }
+                }
+            },
+            "pieces": 358,
+            "releaseDate": "2026-01-01",
+            "urlPath": "mini-belle-tiana-with-castle-43291"
+        },
+        {
+            "id": "43287",
+            "locales": {
+                "en-US": {
+                    "name": "Olaf and Bruni’s Picnic Fun",
+                    "theme": "Disney",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 49.99
+                    }
+                }
+            },
+            "pieces": 478,
+            "releaseDate": "2026-01-01",
+            "urlPath": "olaf-and-brunis-picnic-fun-43287"
+        },
+        {
+            "id": "43286",
+            "locales": {
+                "en-US": {
+                    "name": "The Aristocats Adorable Marie",
+                    "theme": "Disney",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 34.99
+                    }
+                }
+            },
+            "pieces": 369,
+            "releaseDate": "2026-01-01",
+            "urlPath": "the-aristocats-adorable-marie-43286"
+        },
+        {
+            "id": "43285",
+            "locales": {
+                "en-US": {
+                    "name": "Ariel's Magical Mini Palace",
+                    "theme": "Disney",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 19.99
+                    }
+                }
+            },
+            "pieces": 179,
+            "releaseDate": "2026-01-01",
+            "urlPath": "ariels-magical-mini-palace-43285"
+        },
+        {
+            "id": "43284",
+            "locales": {
+                "en-US": {
+                    "name": "Mini Anna & Elsa",
+                    "theme": "Disney",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 9.99
+                    }
+                }
+            },
+            "pieces": 65,
+            "releaseDate": "2026-01-01",
+            "urlPath": "mini-anna-elsa-43284"
+        },
+        {
+            "id": "43281",
+            "locales": {
+                "en-US": {
+                    "name": "Elsa's Ice Castle & Snow Ride Adventure",
+                    "theme": "Disney",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 49.99
+                    }
+                }
+            },
+            "pieces": 216,
+            "releaseDate": "2026-01-01",
+            "urlPath": "elsas-ice-castle-snow-ride-adventure-43281"
         },
         {
             "id": "42226",
