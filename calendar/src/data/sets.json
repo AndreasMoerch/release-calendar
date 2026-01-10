@@ -16,6 +16,22 @@
             "releaseDate": "2026-01-01",
             "urlPath": "stranger-things-the-creel-house-11370"
         },
+          {
+            "id": "40879",
+            "locales": {
+                "en-US": {
+                    "name": "Eleven, Max, Demogorgon and Holly Figures",
+                    "theme": "BrickHeadz",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 39.99
+                    }
+                }
+            },
+            "pieces": 584,
+            "releaseDate": "2026-01-01",
+            "urlPath": "eleven-max-demogorgon-and-holly-figures-40879"
+        },
         {
             "id": "11371",
             "locales": {
