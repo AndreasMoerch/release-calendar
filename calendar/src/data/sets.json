@@ -2417,6 +2417,54 @@
             "urlPath": "spring-wreath-40957"
         },
         {
+            "id": "72152",
+            "locales": {
+                "en-US": {
+                    "name": "Pikachu and Poké Ball",
+                    "theme": "POKéMON",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 199.99
+                    }
+                }
+            },
+            "pieces": 2050,
+            "releaseDate": "2026-02-27",
+            "urlPath": "pikachu-and-poke-ball-72152"
+        },
+        {
+            "id": "772151",
+            "locales": {
+                "en-US": {
+                    "name": "Eevee",
+                    "theme": "POKéMON",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 59.99
+                    }
+                }
+            },
+            "pieces": 587,
+            "releaseDate": "2026-02-27",
+            "urlPath": "eevee-72151"
+        }, 
+        {
+            "id": "72153",
+            "locales": {
+                "en-US": {
+                    "name": "Venusaur, Charizard and Blastoise",
+                    "theme": "POKéMON",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 649.99
+                    }
+                }
+            },
+            "pieces": 6838,
+            "releaseDate": "2026-02-27",
+            "urlPath": "venusaur-charizard-and-blastoise-72153"
+        },
+        {
             "id": "42226",
             "locales": {
                 "en-US": {
