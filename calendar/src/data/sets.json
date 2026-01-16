@@ -2783,6 +2783,22 @@
             "pieces": 151,
             "releaseDate": "2026-03-01",
             "urlPath": "yellow-motorcycle-42225"
+        },
+        {
+            "id": "77093",
+            "locales": {
+                "en-US": {
+                    "name": "Ocarina of Time – The Final Battle",
+                    "theme": "LEGO The Legend of Zelda",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 129.99
+                    }
+                }
+            },
+            "pieces": 151,
+            "releaseDate": "2026-03-01",
+            "urlPath": "ocarina-of-time-the-final-battle-77093"
         }
     ]
 }
