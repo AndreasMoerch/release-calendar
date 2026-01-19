@@ -2417,6 +2417,22 @@
             "urlPath": "spring-wreath-40957"
         },
         {
+            "id": "11384",
+            "locales": {
+                "en-US": {
+                    "name": "Golden Retriever Puppy",
+                    "theme": "LEGO Icons",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 139.99
+                    }
+                }
+            },
+            "pieces": 2102,
+            "releaseDate": "2026-02-01",
+            "urlPath": "golden-retriever-puppy-11384"
+        },
+        {
             "id": "72152",
             "locales": {
                 "en-US": {
