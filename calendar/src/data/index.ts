@@ -13,6 +13,7 @@ import json from './sets.json';
  *     pieces: 576,
  *     releaseDate: new Date("2026-01-01"),
  *     urlPath: "tulip-bouquet-11501",
+ *     imageUrl: "https://www.lego.com/cdn/cs/set/assets/blt230df6ac4329bc62/11501_Prod_en-gb.png",
  *     price: { currency: "USD", amount: 59.99 }
  *   },
  *   ...
@@ -28,6 +29,7 @@ export const AllSets = (locale: Locale): Set[] =>
             pieces: set.pieces,
             releaseDate: new Date(set.releaseDate),
             urlPath: set.urlPath,
+            imageUrl: set.imageUrl,
             price: localeData.price,
         }
     });
@@ -48,6 +50,7 @@ type setJson = {
   pieces: number;
   releaseDate: string;
   urlPath: string;
+  imageUrl?: string;
 };
 
 type localeJson = {

@@ -39,6 +39,14 @@ export interface Set {
      * @example "tulip-bouquet-11501"
      */
     urlPath: string;
+
+    /**
+     * Optional image URL for the set.
+     * @note The image is will by default be way to high resolution for display in the calendar. The CDN supports resizing via URL parameters.
+     * @note For backward compatibility, this field may be omitted.
+     * @example "https://www.lego.com/cdn/cs/set/assets/blt230df6ac4329bc62/11501_Prod_en-gb.png"
+     */
+    imageUrl?: string;
 }
 
 /**
