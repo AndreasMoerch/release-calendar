@@ -2816,6 +2816,23 @@
             "pieces": 1003,
             "releaseDate": "2026-03-01",
             "urlPath": "ocarina-of-time-the-final-battle-77093"
+        },
+        {
+            "id": "77259",
+            "locales": {
+                "en-US": {
+                    "name": "Speed Champions",
+                    "theme": "Audi Revolut F1 Team R26 Race Car",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 27.99
+                    }
+                }
+            },
+            "pieces": 216,
+            "releaseDate": "2026-03-01",
+            "urlPath": "audi-revolut-f1-team-r26-race-car-77259",
+            "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltabd8d686bcca8fca/blt480f8e3525715603-77259_boxprod_v39_en-gb.png"
         }
     ]
 }
