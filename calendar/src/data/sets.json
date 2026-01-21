@@ -2709,7 +2709,7 @@
             "id": "75423",
             "locales": {
                 "en-US": {
-                    "name": "SMART Play: Luke's Red Five X-Wing™",
+                    "name": "SMART Play: Luke's Red Five X-Wing",
                     "theme": "Star Wars",
                     "price": {
                         "currency": "USD",
@@ -2719,7 +2719,8 @@
             },
             "pieces": 581,
             "releaseDate": "2026-03-01",
-            "urlPath": "smart-play-lukes-red-five-x-wing-75423"
+            "urlPath": "smart-play-lukes-red-five-x-wing-75423",
+            "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt5083a28189d02095/75423_Prod.png"
         },
         {
             "id": "75427",
@@ -2735,7 +2736,8 @@
             },
             "pieces": 962,
             "releaseDate": "2026-03-01",
-            "urlPath": "smart-play-throne-room-duel-a-wing-75427"
+            "urlPath": "smart-play-throne-room-duel-a-wing-75427",
+            "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltf279b650862f34ce/75427_Prod.png"
         },
         {
             "id": "75421",
@@ -2751,7 +2753,8 @@
             },
             "pieces": 473,
             "releaseDate": "2026-03-01",
-            "urlPath": "smart-play-darth-vaders-tie-fighter-75421"
+            "urlPath": "smart-play-darth-vaders-tie-fighter-75421",
+            "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltb61ed1b9765cd542/75421_Prod.png"
         },
         {
             "id": "42227",
@@ -2767,7 +2770,8 @@
             },
             "pieces": 723,
             "releaseDate": "2026-03-01",
-            "urlPath": "jeep-wrangler-rubicon-suv-42227"
+            "urlPath": "jeep-wrangler-rubicon-suv-42227",
+            "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt8f7d3695517d3132/42227_Prod.png"
         },
         {
             "id": "42226",
@@ -2815,7 +2819,8 @@
             },
             "pieces": 1003,
             "releaseDate": "2026-03-01",
-            "urlPath": "ocarina-of-time-the-final-battle-77093"
+            "urlPath": "ocarina-of-time-the-final-battle-77093",
+            "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt5152edc0c0519f1e/77093_boxprod_v39.png"
         },
         {
             "id": "77259",
