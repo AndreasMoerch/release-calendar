@@ -2417,6 +2417,23 @@
             "urlPath": "spring-wreath-40957"
         },
         {
+            "id": "11503",
+            "locales": {
+                "en-US": {
+                    "name": "Flower Wall",
+                    "theme": "The Botanical Collection",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 89.99
+                    }
+                }
+            },
+            "pieces": 879,
+            "releaseDate": "2026-02-04",
+            "urlPath": "flower-wall-11503",
+            "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt6982d0b3c85ad628/11503_Prod_en-gb.png"
+        },
+        {
             "id": "11384",
             "locales": {
                 "en-US": {
