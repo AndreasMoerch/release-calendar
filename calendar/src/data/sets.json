@@ -2791,22 +2791,6 @@
             "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt8f7d3695517d3132/42227_Prod.png"
         },
         {
-            "id": "42226",
-            "locales": {
-                "en-US": {
-                    "name": "BMW M4 GT3 EVO Race Car",
-                    "theme": "Technic",
-                    "price": {
-                        "currency": "USD",
-                        "amount": 64.99
-                    }
-                }
-            },
-            "pieces": 747,
-            "releaseDate": "2026-03-01",
-            "urlPath": "bmw-m4-gt3-evo-race-car-42226"
-        },
-        {
             "id": "42225",
             "locales": {
                 "en-US": {
