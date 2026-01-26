@@ -2855,6 +2855,40 @@
             "releaseDate": "2026-03-01",
             "urlPath": "audi-revolut-f1-team-r26-race-car-77259",
             "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltabd8d686bcca8fca/blt480f8e3525715603-77259_boxprod_v39_en-gb.png"
-        }
+        },
+        {
+            "id": "11373",
+            "locales": {
+                "en-US": {
+                    "name": "The Lord of the Rings: Sauron's Helmet",
+                    "theme": "Lord of the Rings",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 69.99
+                    }
+                }
+            },
+            "pieces": 538,
+            "releaseDate": "2026-03-01",
+            "urlPath": "the-lord-of-the-rings-saurons-helmet-11373",
+            "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt3d2826cf026d92b1/blt3741cf2d0a12aa6a-11373_Prod.png"
+        },
+        {
+            "id": "43019",
+            "locales": {
+                "en-US": {
+                    "name": "Soccer Ball",
+                    "theme": "LEGO Editions Sets",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 129.99
+                    }
+                }
+            },
+            "pieces": 1498,
+            "releaseDate": "2026-03-01",
+            "urlPath": "soccer-ball-43019",
+            "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt04675f933d657700/bltec1b6ad847503d45-43019_Prod.png"
+        }  
     ]
 }
