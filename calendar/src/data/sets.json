@@ -2873,6 +2873,91 @@
             "releaseDate": "2026-03-01",
             "urlPath": "soccer-ball-43019",
             "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt04675f933d657700/bltec1b6ad847503d45-43019_Prod.png"
-        }  
+        },
+        {
+            "id": "75424",
+            "locales": {
+                "en-US": {
+                    "name": "SMART Play: AT-ST™ Attack on Endor",
+                    "theme": "Star Wars",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 49.99
+                    }
+                }
+            },
+            "pieces": 347,
+            "releaseDate": "2026-03-01",
+            "urlPath": "smart-play-at-st-attack-on-endor-75424",
+            "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt7f3a2a5242b3db75/blt25801572ad058379-75424_boxprod_v39_en-us.png"
+        },
+        {
+            "id": "75420",
+            "locales": {
+                "en-US": {
+                    "name": "SMART Play: Luke's Landspeeder",
+                    "theme": "Star Wars",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 39.99
+                    }
+                }
+            },
+            "pieces": 215,
+            "releaseDate": "2026-03-01",
+            "urlPath": "smart-play-lukes-landspeeder-75420",
+            "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt1db791dfd17dbbc9/75420_boxprod_v39.png"
+        },
+        {
+            "id": "75422",
+            "locales": {
+                "en-US": {
+                    "name": "SMART Play: Yoda's Hut and Jedi Training",
+                    "theme": "Star Wars",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 69.99
+                    }
+                }
+            },
+            "pieces": 440,
+            "releaseDate": "2026-03-01",
+            "urlPath": "smart-play-yodas-hut-and-jedi-training-75422",
+            "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt26750ca300225f1a/75422_boxprod_v39.png"
+        },
+        {
+            "id": "75426",
+            "locales": {
+                "en-US": {
+                    "name": "SMART Play: Millennium Falcon",
+                    "theme": "Star Wars",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 99.99
+                    }
+                }
+            },
+            "pieces": 885,
+            "releaseDate": "2026-03-01",
+            "urlPath": "smart-play-millennium-falcon-75426",
+            "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt2570b76d59290d12/75426_boxprod_v39.png"
+        },
+        {
+            "id": "75425",
+            "locales": {
+                "en-US": {
+                    "name": "SMART Play: Mos Eisley Cantina",
+                    "theme": "Star Wars",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 79.99
+                    }
+                }
+            },
+            "pieces": 666,
+            "releaseDate": "2026-03-01",
+            "urlPath": "smart-play-mos-eisley-cantina-75425",
+            "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blta7c25562cc9d0cc4/bltea18a1c391dfe829-75425_boxprod_v39_en-us.png"
+        }               
     ]
 }
