@@ -2994,23 +2994,6 @@
             "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt11d22174cfe267f7/blt1c33118501c8da2f-11502_boxprod_v39_en-us.png"
         },
         {
-            "id": "11502",
-            "locales": {
-                "en-US": {
-                    "name": "Sunflower Bouquet",
-                    "theme": "The Botanical Collection",
-                    "price": {
-                        "currency": "USD",
-                        "amount": 59.99
-                    }
-                }
-            },
-            "pieces": 686,
-            "releaseDate": "2026-03-01",
-            "urlPath": "sunflower-bouquet-11502",
-            "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt11d22174cfe267f7/blt1c33118501c8da2f-11502_boxprod_v39_en-us.png"
-        },
-        {
             "id": "43300",
             "locales": {
                 "en-US": {
