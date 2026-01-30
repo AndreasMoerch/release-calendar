@@ -2958,6 +2958,227 @@
             "releaseDate": "2026-03-01",
             "urlPath": "smart-play-mos-eisley-cantina-75425",
             "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blta7c25562cc9d0cc4/bltea18a1c391dfe829-75425_boxprod_v39_en-us.png"
-        }               
+        },
+        {
+            "id": "11510",
+            "locales": {
+                "en-US": {
+                    "name": "Magnolia Branches",
+                    "theme": "The Botanical Collection",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 49.99
+                    }
+                }
+            },
+            "pieces": 435,
+            "releaseDate": "2026-03-01",
+            "urlPath": "magnolia-branches-11510",
+            "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt6863b4215791446f/bltf1012114bd36e2ac-11510_boxprod_v29.png"
+        },
+        {
+            "id": "11502",
+            "locales": {
+                "en-US": {
+                    "name": "Sunflower Bouquet",
+                    "theme": "The Botanical Collection",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 59.99
+                    }
+                }
+            },
+            "pieces": 686,
+            "releaseDate": "2026-03-01",
+            "urlPath": "sunflower-bouquet-11502",
+            "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt11d22174cfe267f7/blt1c33118501c8da2f-11502_boxprod_v39_en-us.png"
+        },
+        {
+            "id": "11502",
+            "locales": {
+                "en-US": {
+                    "name": "Sunflower Bouquet",
+                    "theme": "The Botanical Collection",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 59.99
+                    }
+                }
+            },
+            "pieces": 686,
+            "releaseDate": "2026-03-01",
+            "urlPath": "sunflower-bouquet-11502",
+            "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt11d22174cfe267f7/blt1c33118501c8da2f-11502_boxprod_v39_en-us.png"
+        },
+        {
+            "id": "43300",
+            "locales": {
+                "en-US": {
+                    "name": "Winnie the Pooh",
+                    "theme": "Disney",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 149.99
+                    }
+                }
+            },
+            "pieces": 1399,
+            "releaseDate": "2026-03-01",
+            "urlPath": "winnie-the-pooh-43300",
+            "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltb2f6a68f73cd3226/blt1bf4465602ddf9aa-43300_boxprod_v39_en-us.png"
+        },
+        {
+            "id": "43305",
+            "locales": {
+                "en-US": {
+                    "name": "Piglet's Birthday Fun",
+                    "theme": "Disney",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 39.99
+                    }
+                }
+            },
+            "pieces": 544,
+            "releaseDate": "2026-03-01",
+            "urlPath": "piglets-birthday-fun-43305",
+            "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltb41fe44f5251b6ae/blt5d5130e90d453750-43305_boxprod_v39_en-us.png"
+        },
+        {
+            "id": "43305",
+            "locales": {
+                "en-US": {
+                    "name": "Piglet's Birthday Fun",
+                    "theme": "Disney",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 39.99
+                    }
+                }
+            },
+            "pieces": 544,
+            "releaseDate": "2026-03-01",
+            "urlPath": "piglets-birthday-fun-43305",
+            "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltb41fe44f5251b6ae/blt5d5130e90d453750-43305_boxprod_v39_en-us.png"
+        },
+        {
+            "id": "40921",
+            "locales": {
+                "en-US": {
+                    "name": "Up-Scaled Blue Astronaut Minifigure",
+                    "theme": "Minifigures",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 59.99
+                    }
+                }
+            },
+            "pieces": 793,
+            "releaseDate": "2026-03-01",
+            "urlPath": "up-scaled-blue-astronaut-minifigure-40921",
+            "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blte503acb92511af86/blt2a9cb43f464b17e3-40921_boxprod_v39_en-us.png"
+        },
+        {
+            "id": "40953",
+            "locales": {
+                "en-US": {
+                    "name": "London Bus",
+                    "theme": "Other",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 19.99
+                    }
+                }
+            },
+            "pieces": 245,
+            "releaseDate": "2026-03-01",
+            "urlPath": "london-bus-40953",
+            "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt29afc7433c45dfb6/blt16fa51a2cdd03d34-40953_boxprod_v29.png"
+        },
+        {
+            "id": "40861",
+            "locales": {
+                "en-US": {
+                    "name": "Sulley, Mike and Boo Figures",
+                    "theme": "BrickHeadz",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 24.99
+                    }
+                }
+            },
+            "pieces": 303,
+            "releaseDate": "2026-03-01",
+            "urlPath": "sulley-mike-and-boo-figures-40861",
+            "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltd0c7d6e2194f655b/bltae4d93bfef625930-40861_boxprod_v39_en-us.png"
+        },
+        {
+            "id": "40881",
+            "locales": {
+                "en-US": {
+                    "name": "Supply Llama & Fishstick Figures",
+                    "theme": "LEGO Fortnite",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 24.99
+                    }
+                }
+            },
+            "pieces": 300,
+            "releaseDate": "2026-03-01",
+            "urlPath": "supply-llama-and-fishstick-figures-40881",
+            "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt11d3ab4b04eb9f5b/blt038629229e3112eb-40881_boxprod_v29.png"
+        },
+        {
+            "id": "10468",
+            "locales": {
+                "en-US": {
+                    "name": "Tractor and Market",
+                    "theme": "DUPLO",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 19.99
+                    }
+                }
+            },
+            "pieces": 18,
+            "releaseDate": "2026-03-01",
+            "urlPath": "tractor-and-market-10468",
+            "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt2215d13159e3fe9e/bltc828f617af3c7f85-10468_boxprod_v39.png"
+        },
+        {
+            "id": "10467",
+            "locales": {
+                "en-US": {
+                    "name": "Family House",
+                    "theme": "DUPLO",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 59.99
+                    }
+                }
+            },
+            "pieces": 84,
+            "releaseDate": "2026-03-01",
+            "urlPath": "family-house-10467",
+            "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt5c189da5c92ab80d/blt85689746e54b83e6-10467_boxprod_v39_en-us.png"
+        },
+        {
+            "id": "10466",
+            "locales": {
+                "en-US": {
+                    "name": "Train Ride with Grandpa Pig",
+                    "theme": "DUPLO",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 39.99
+                    }
+                }
+            },
+            "pieces": 35,
+            "releaseDate": "2026-03-01",
+            "urlPath": "train-ride-with-grandpa-pig-10466",
+            "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt302ae90310d185b0/blt3d32740835a45696-10466_boxprod_v29.png"
+        }                                                   
     ]
 }
