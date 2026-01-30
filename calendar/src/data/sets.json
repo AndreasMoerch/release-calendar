@@ -3028,23 +3028,6 @@
             "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltb41fe44f5251b6ae/blt5d5130e90d453750-43305_boxprod_v39_en-us.png"
         },
         {
-            "id": "43305",
-            "locales": {
-                "en-US": {
-                    "name": "Piglet's Birthday Fun",
-                    "theme": "Disney",
-                    "price": {
-                        "currency": "USD",
-                        "amount": 39.99
-                    }
-                }
-            },
-            "pieces": 544,
-            "releaseDate": "2026-03-01",
-            "urlPath": "piglets-birthday-fun-43305",
-            "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltb41fe44f5251b6ae/blt5d5130e90d453750-43305_boxprod_v39_en-us.png"
-        },
-        {
             "id": "40921",
             "locales": {
                 "en-US": {
