@@ -3145,6 +3145,23 @@
             "releaseDate": "2026-03-01",
             "urlPath": "train-ride-with-grandpa-pig-10466",
             "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt302ae90310d185b0/blt3d32740835a45696-10466_boxprod_v29.png"
-        }                                                   
+        },   
+        {
+            "id": "40878",
+            "locales": {
+                "en-US": {
+                    "name": "Teenage Mutant Ninja Turtles Figures",
+                    "theme": "BrickHeadz",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 39.99
+                    }
+                }
+            },
+            "pieces": 567,
+            "releaseDate": "2026-04-01",
+            "urlPath": "teenage-mutant-ninja-turtles-figures-40878",
+            "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blta1a0822f76b2c021/blt0ed7f6db378fc08b-40878_boxprod_v39_en-us.png"
+        }                                               
     ]
 }
