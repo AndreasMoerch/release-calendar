@@ -3145,6 +3145,23 @@
             "releaseDate": "2026-03-01",
             "urlPath": "train-ride-with-grandpa-pig-10466",
             "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt302ae90310d185b0/blt3d32740835a45696-10466_boxprod_v29.png"
+        },
+        {
+            "id": "21376",
+            "locales": {
+                "en-US": {
+                    "name": "Orange Cat",
+                    "theme": "Ideas",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 99.99
+                    }
+                }
+            },
+            "pieces": 1755,
+            "releaseDate": "2026-03-01",
+            "urlPath": "orange-cat-21376",
+            "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt6521ce7644c52ba3/blted58edc393988117-21376_boxprod_v39_en-us.png"
         },   
         {
             "id": "40878",
