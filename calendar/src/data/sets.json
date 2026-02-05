@@ -3162,7 +3162,24 @@
             "releaseDate": "2026-03-01",
             "urlPath": "orange-cat-21376",
             "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt6521ce7644c52ba3/blted58edc393988117-21376_boxprod_v39_en-us.png"
-        },   
+        }, 
+        {
+            "id": "11389",
+            "locales": {
+                "en-US": {
+                    "name": "Project Hail Mary",
+                    "theme": "LEGO Icons",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 99.99
+                    }
+                }
+            },
+            "pieces": 830,
+            "releaseDate": "2026-03-01",
+            "urlPath": "project-hail-mary-11389",
+            "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blte0453c2491d3a76f/bltfe9034ee5bed08f3-11389_boxprod_v39_en-us.png"
+        }, 
         {
             "id": "40878",
             "locales": {
