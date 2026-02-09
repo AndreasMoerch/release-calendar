@@ -3181,6 +3181,40 @@
             "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blte0453c2491d3a76f/bltfe9034ee5bed08f3-11389_boxprod_v39_en-us.png"
         }, 
         {
+            "id": "11376",
+            "locales": {
+                "en-US": {
+                    "name": "Ford Model T",
+                    "theme": "LEGO Icons",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 129.99
+                    }
+                }
+            },
+            "pieces": 1060,
+            "releaseDate": "2026-03-01",
+            "urlPath": "ford-model-t-11376",
+            "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt1b81207c215cfdcd/blt9b1cd88cf5ab5032-11376_boxprod_v39_en-us.png"
+        },
+        {
+            "id": "21366",
+            "locales": {
+                "en-US": {
+                    "name": "Floating Sea Otters",
+                    "theme": "Ideas",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 119.99
+                    }
+                }
+            },
+            "pieces": 1234,
+            "releaseDate": "2026-03-01",
+            "urlPath": "floating-sea-otters-21366",
+            "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltc22d6833ae5a4017/21366_boxprod_v39.png"
+        },    
+        {
             "id": "40878",
             "locales": {
                 "en-US": {
