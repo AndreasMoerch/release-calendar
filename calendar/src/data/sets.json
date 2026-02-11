@@ -3213,7 +3213,24 @@
             "releaseDate": "2026-03-01",
             "urlPath": "floating-sea-otters-21366",
             "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltc22d6833ae5a4017/21366_boxprod_v39.png"
-        },    
+        },
+        {
+            "id": "31220",
+            "locales": {
+                "en-US": {
+                    "name": "Claude Monet – Bridge over a Pond of Water Lilies",
+                    "theme": "Art",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 249.99
+                    }
+                }
+            },
+            "pieces": 3179,
+            "releaseDate": "2026-03-04",
+            "urlPath": "claude-monet-bridge-over-a-pond-of-water-lilies-31220",
+            "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt323899894610d3c4/blt4065b9e490396e28-31220_boxprod_v39_en-us.png"
+        },      
         {
             "id": "40878",
             "locales": {
