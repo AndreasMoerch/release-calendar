@@ -3215,6 +3215,23 @@
             "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltc22d6833ae5a4017/21366_boxprod_v39.png"
         },
         {
+            "id": "40955",
+            "locales": {
+                "en-US": {
+                    "name": "Maersk Dual-Fuel Container Vessel",
+                    "theme": "Other",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 149.99
+                    }
+                }
+            },
+            "pieces": 1516,
+            "releaseDate": "2026-03-01",
+            "urlPath": "maersk-dual-fuel-container-vessel-40955",
+            "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt53254f8f3cbc14c3/bltc4e81aefa63718a7-40955_boxprod_v29.png"
+        },
+        {
             "id": "31220",
             "locales": {
                 "en-US": {
