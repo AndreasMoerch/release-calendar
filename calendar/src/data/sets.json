@@ -3264,6 +3264,91 @@
             "releaseDate": "2026-04-01",
             "urlPath": "teenage-mutant-ninja-turtles-figures-40878",
             "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blta1a0822f76b2c021/blt0ed7f6db378fc08b-40878_boxprod_v39_en-us.png"
-        }                                               
+        },      
+        {
+            "id": "75460",
+            "locales": {
+                "en-US": {
+                    "name": "New Republic X-Wing Starfighter",
+                    "theme": "Star Wars",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 69.99
+                    }
+                }
+            },
+            "pieces": 558,
+            "releaseDate": "2026-04-01",
+            "urlPath": "new-republic-x-wing-starfighter-75460",
+            "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltf020b371b224c271/75460_boxprod_v39.png"
+        },               
+        {
+            "id": "75445",
+            "locales": {
+                "en-US": {
+                    "name": "Anzellan Starship",
+                    "theme": "Star Wars",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 74.99
+                    }
+                }
+            },
+            "pieces": 701,
+            "releaseDate": "2026-04-26",
+            "urlPath": "anzellan-starship-75445",
+            "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt93dcbe9f128508c9/75445_boxprod_v39.png"
+        },      
+        {
+            "id": "75447",
+            "locales": {
+                "en-US": {
+                    "name": "The Razor Crest",
+                    "theme": "Star Wars",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 149.99
+                    }
+                }
+            },
+            "pieces": 930,
+            "releaseDate": "2026-04-26",
+            "urlPath": "the-razor-crest-75447",
+            "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltf020b371b224c271/75460_boxprod_v39.png"
+        },      
+        {
+            "id": "40856",
+            "locales": {
+                "en-US": {
+                    "name": "The Mandalorian and Grogu: Allies & Villains",
+                    "theme": "Star Wars",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 39.99
+                    }
+                }
+            },
+            "pieces": 661,
+            "releaseDate": "2026-04-26",
+            "urlPath": "the-mandalorian-and-grogu-allies-villains-40856",
+            "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltce148f32dcbcdd4e/40856_boxprod_v39.png"
+        },     
+        {
+            "id": "75444",
+            "locales": {
+                "en-US": {
+                    "name": "AT-RT Attack",
+                    "theme": "Star Wars",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 44.99
+                    }
+                }
+            },
+            "pieces": 297,
+            "releaseDate": "2026-04-26",
+            "urlPath": "at-rt-attack-75444",
+            "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt63496f287b926d69/blt1a085f1ef4d5c931-75444_boxprod_v39_en-us.png"
+        }                                                 
     ]
 }
