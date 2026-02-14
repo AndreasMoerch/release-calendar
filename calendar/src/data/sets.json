@@ -3349,6 +3349,74 @@
             "releaseDate": "2026-04-26",
             "urlPath": "at-rt-attack-75444",
             "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt63496f287b926d69/blt1a085f1ef4d5c931-75444_boxprod_v39_en-us.png"
-        }                                                 
+        },     
+        {
+            "id": "75446",
+            "locales": {
+                "en-US": {
+                    "name": "Grogu (Mandalorian Apprentice)",
+                    "theme": "Star Wars",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 129.99
+                    }
+                }
+            },
+            "pieces": 1200,
+            "releaseDate": "2026-04-26",
+            "urlPath": "grogu-mandalorian-apprentice-75446",
+            "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltaf6b16982291731e/blta8d62a90e62e020c-75446_boxprod_v39_en-us.png"
+        },     
+        {
+            "id": "71867",
+            "locales": {
+                "en-US": {
+                    "name": "X-1 Ninja Charger 15th Anniversary",
+                    "theme": "Ninjago",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 89.99
+                    }
+                }
+            },
+            "pieces": 691,
+            "releaseDate": "2026-08-01",
+            "urlPath": "x-1-ninja-charger-15th-anniversary-71867",
+            "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt303f59be62ea2e5e/blt79894081d06b9e54-71867_boxprod_v29.png"
+        },     
+        {
+            "id": "10478",
+            "locales": {
+                "en-US": {
+                    "name": "3 in 1 Creative Ramps with Vehicles",
+                    "theme": "DUPLO",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 69.99
+                    }
+                }
+            },
+            "pieces": 111,
+            "releaseDate": "2026-08-01",
+            "urlPath": "3-in-1-creative-ramps-with-vehicles-10478",
+            "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltf40437846acacd21/blt089ab96e431c2cf3-10478_Box1_v39_en-us.png"
+        },     
+        {
+            "id": "21368",
+            "locales": {
+                "en-US": {
+                    "name": "Peanuts: Snoopy's Doghouse",
+                    "theme": "Ideas",
+                    "price": {
+                        "currency": "USD",
+                        "amount": 89.99
+                    }
+                }
+            },
+            "pieces": 964,
+            "releaseDate": "2026-06-01",
+            "urlPath": "peanuts-snoopys-doghouse-21368",
+            "imageUrl": "hhttps://www.lego.com/cdn/cs/set/assets/bltbd2de10357fd5f3c/21368_boxprod_v39.png"
+        }                                                       
     ]
 }
